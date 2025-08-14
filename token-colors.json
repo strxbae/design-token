@@ -1,6 +1,4 @@
-//_primitives.Default.tokens.json
-
-
+_primitives.Default.tokens.json
 {
   "base": {
     "white": {
@@ -3254,35 +3252,35 @@ _alias.day-mode.tokens.json
         }
       },
       "terracotta-orange": {
-        "utility-orange-50": {
+        "utility-orange-terracotta-50": {
           "$type": "color",
           "$value": "{terracotta-orange.50}"
         },
-        "utility-orange-100": {
+        "utility-orange-terracotta-100": {
           "$type": "color",
           "$value": "{terracotta-orange.100}"
         },
-        "utility-orange-200": {
+        "utility-orange-terracotta-200": {
           "$type": "color",
           "$value": "{terracotta-orange.200}"
         },
-        "utility-orange-300": {
+        "utility-orange-terracotta-300": {
           "$type": "color",
           "$value": "{terracotta-orange.300}"
         },
-        "utility-orange-400": {
+        "utility-orange-terracotta-400": {
           "$type": "color",
           "$value": "{terracotta-orange.400}"
         },
-        "utility-orange-500": {
+        "utility-orange-terracotta-500": {
           "$type": "color",
           "$value": "{terracotta-orange.500}"
         },
-        "utility-orange-600": {
+        "utility-orange-terracotta-600": {
           "$type": "color",
           "$value": "{terracotta-orange.600}"
         },
-        "utility-orange-700": {
+        "utility-orange-terracotta-700": {
           "$type": "color",
           "$value": "{terracotta-orange.700}"
         }
@@ -3322,35 +3320,35 @@ _alias.day-mode.tokens.json
         }
       },
       "sunset-orange": {
-        "utility-orange-50": {
+        "utility-sunset-orange-50": {
           "$type": "color",
           "$value": "{sunset-orange.50}"
         },
-        "utility-orange-100": {
+        "utility-sunset-orange-100": {
           "$type": "color",
           "$value": "{sunset-orange.100}"
         },
-        "utility-orange-200": {
+        "utility-sunset-orange-200": {
           "$type": "color",
           "$value": "{sunset-orange.200}"
         },
-        "utility-orange-300": {
+        "utility-sunset-orange-300": {
           "$type": "color",
           "$value": "{sunset-orange.300}"
         },
-        "utility-orange-400": {
+        "utility-sunset-orange-400": {
           "$type": "color",
           "$value": "{sunset-orange.400}"
         },
-        "utility-orange-500": {
+        "utility-sunset-orange-500": {
           "$type": "color",
           "$value": "{sunset-orange.500}"
         },
-        "utility-orange-600": {
+        "utility-sunset-orange-600": {
           "$type": "color",
           "$value": "{sunset-orange.600}"
         },
-        "utility-orange-700": {
+        "utility-sunset-orange-700": {
           "$type": "color",
           "$value": "{sunset-orange.700}"
         }
@@ -4831,35 +4829,35 @@ _alias.night-mode.tokens.json
         }
       },
       "terracotta-orange": {
-        "utility-orange-50": {
+        "utility-orange-terracotta-50": {
           "$type": "color",
           "$value": "{terracotta-orange.950}"
         },
-        "utility-orange-100": {
+        "utility-orange-terracotta-100": {
           "$type": "color",
           "$value": "{terracotta-orange.900}"
         },
-        "utility-orange-200": {
+        "utility-orange-terracotta-200": {
           "$type": "color",
           "$value": "{terracotta-orange.800}"
         },
-        "utility-orange-300": {
+        "utility-orange-terracotta-300": {
           "$type": "color",
           "$value": "{terracotta-orange.700}"
         },
-        "utility-orange-400": {
+        "utility-orange-terracotta-400": {
           "$type": "color",
           "$value": "{terracotta-orange.600}"
         },
-        "utility-orange-500": {
+        "utility-orange-terracotta-500": {
           "$type": "color",
           "$value": "{terracotta-orange.500}"
         },
-        "utility-orange-600": {
+        "utility-orange-terracotta-600": {
           "$type": "color",
           "$value": "{terracotta-orange.400}"
         },
-        "utility-orange-700": {
+        "utility-orange-terracotta-700": {
           "$type": "color",
           "$value": "{terracotta-orange.300}"
         }
@@ -4899,35 +4897,35 @@ _alias.night-mode.tokens.json
         }
       },
       "sunset-orange": {
-        "utility-orange-50": {
+        "utility-sunset-orange-50": {
           "$type": "color",
           "$value": "{sunset-orange.950}"
         },
-        "utility-orange-100": {
+        "utility-sunset-orange-100": {
           "$type": "color",
           "$value": "{sunset-orange.900}"
         },
-        "utility-orange-200": {
+        "utility-sunset-orange-200": {
           "$type": "color",
           "$value": "{sunset-orange.800}"
         },
-        "utility-orange-300": {
+        "utility-sunset-orange-300": {
           "$type": "color",
           "$value": "{sunset-orange.700}"
         },
-        "utility-orange-400": {
+        "utility-sunset-orange-400": {
           "$type": "color",
           "$value": "{sunset-orange.600}"
         },
-        "utility-orange-500": {
+        "utility-sunset-orange-500": {
           "$type": "color",
           "$value": "{sunset-orange.500}"
         },
-        "utility-orange-600": {
+        "utility-sunset-orange-600": {
           "$type": "color",
           "$value": "{sunset-orange.400}"
         },
-        "utility-orange-700": {
+        "utility-sunset-orange-700": {
           "$type": "color",
           "$value": "{sunset-orange.300}"
         }
@@ -6408,35 +6406,35 @@ _alias.dark.tokens.json
         }
       },
       "terracotta-orange": {
-        "utility-orange-50": {
+        "utility-orange-terracotta-50": {
           "$type": "color",
           "$value": "{terracotta-orange.950}"
         },
-        "utility-orange-100": {
+        "utility-orange-terracotta-100": {
           "$type": "color",
           "$value": "{terracotta-orange.900}"
         },
-        "utility-orange-200": {
+        "utility-orange-terracotta-200": {
           "$type": "color",
           "$value": "{terracotta-orange.800}"
         },
-        "utility-orange-300": {
+        "utility-orange-terracotta-300": {
           "$type": "color",
           "$value": "{terracotta-orange.700}"
         },
-        "utility-orange-400": {
+        "utility-orange-terracotta-400": {
           "$type": "color",
           "$value": "{terracotta-orange.600}"
         },
-        "utility-orange-500": {
+        "utility-orange-terracotta-500": {
           "$type": "color",
           "$value": "{terracotta-orange.500}"
         },
-        "utility-orange-600": {
+        "utility-orange-terracotta-600": {
           "$type": "color",
           "$value": "{terracotta-orange.400}"
         },
-        "utility-orange-700": {
+        "utility-orange-terracotta-700": {
           "$type": "color",
           "$value": "{terracotta-orange.300}"
         }
@@ -6476,35 +6474,35 @@ _alias.dark.tokens.json
         }
       },
       "sunset-orange": {
-        "utility-orange-50": {
+        "utility-sunset-orange-50": {
           "$type": "color",
           "$value": "{sunset-orange.950}"
         },
-        "utility-orange-100": {
+        "utility-sunset-orange-100": {
           "$type": "color",
           "$value": "{sunset-orange.900}"
         },
-        "utility-orange-200": {
+        "utility-sunset-orange-200": {
           "$type": "color",
           "$value": "{sunset-orange.800}"
         },
-        "utility-orange-300": {
+        "utility-sunset-orange-300": {
           "$type": "color",
           "$value": "{sunset-orange.700}"
         },
-        "utility-orange-400": {
+        "utility-sunset-orange-400": {
           "$type": "color",
           "$value": "{sunset-orange.600}"
         },
-        "utility-orange-500": {
+        "utility-sunset-orange-500": {
           "$type": "color",
           "$value": "{sunset-orange.500}"
         },
-        "utility-orange-600": {
+        "utility-sunset-orange-600": {
           "$type": "color",
           "$value": "{sunset-orange.400}"
         },
-        "utility-orange-700": {
+        "utility-sunset-orange-700": {
           "$type": "color",
           "$value": "{sunset-orange.300}"
         }
