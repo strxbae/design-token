@@ -3824,7 +3824,7 @@ _alias.night-mode.tokens.json
       },
       "bg-disabled-subtle": {
         "$type": "color",
-        "$value": "{gray-modern.800}"
+        "$value": "{gray-modern.900}"
       },
       "bg-overlay": {
         "$type": "color",
@@ -5401,7 +5401,7 @@ _alias.dark.tokens.json
       },
       "bg-disabled-subtle": {
         "$type": "color",
-        "$value": "{gray-dark-mode.800}"
+        "$value": "{gray-dark-mode.900}"
       },
       "bg-overlay": {
         "$type": "color",
