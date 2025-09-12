@@ -2585,7 +2585,7 @@ _alias.day-mode.tokens.json
         "$type": "color",
         "$value": "{success.600}"
       },
-      "info-pbg-rimary": {
+      "info-bg-primary": {
         "$type": "color",
         "$value": "{blue.50}"
       },
@@ -2775,6 +2775,28 @@ _alias.day-mode.tokens.json
         "avatar-styles-bg-neutral": {
           "$type": "color",
           "$value": "{gray-true.200}"
+        },
+        "outline": {
+          "open-to-work": {
+            "deg0-stop-0": {
+              "$type": "color",
+              "$value": "{success.500}"
+            },
+            "deg0-stop-100": {
+              "$type": "color",
+              "$value": "{success.950}"
+            }
+          },
+          "open-to-profesional": {
+            "deg0-stop-0": {
+              "$type": "color",
+              "$value": "{warning.500}"
+            },
+            "deg0-stop-100": {
+              "$type": "color",
+              "$value": "{warning.950}"
+            }
+          }
         }
       },
       "buttons": {
@@ -2793,6 +2815,16 @@ _alias.day-mode.tokens.json
         "button-destructive-primary-icon-hover": {
           "$type": "color",
           "$value": "{error.200}"
+        },
+        "overlay-linear": {
+          "stop0": {
+            "$type": "color",
+            "$value": "{base.transparent-white}"
+          },
+          "stop100": {
+            "$type": "color",
+            "$value": "{alpha.black.40}"
+          }
         }
       },
       "footers": {
@@ -4312,7 +4344,7 @@ _alias.night-mode.tokens.json
         "$type": "color",
         "$value": "{success.600}"
       },
-      "info-pbg-rimary": {
+      "info-bg-primary": {
         "$type": "color",
         "$value": "{blue.950}"
       },
@@ -4502,6 +4534,28 @@ _alias.night-mode.tokens.json
         "avatar-styles-bg-neutral": {
           "$type": "color",
           "$value": "{gray-true.200}"
+        },
+        "outline": {
+          "open-to-work": {
+            "deg0-stop-0": {
+              "$type": "color",
+              "$value": "{success.500}"
+            },
+            "deg0-stop-100": {
+              "$type": "color",
+              "$value": "{alpha.white.10}"
+            }
+          },
+          "open-to-profesional": {
+            "deg0-stop-0": {
+              "$type": "color",
+              "$value": "{warning.500}"
+            },
+            "deg0-stop-100": {
+              "$type": "color",
+              "$value": "{warning.800}"
+            }
+          }
         }
       },
       "buttons": {
@@ -4520,6 +4574,16 @@ _alias.night-mode.tokens.json
         "button-destructive-primary-icon-hover": {
           "$type": "color",
           "$value": "{error.200}"
+        },
+        "overlay-linear": {
+          "stop0": {
+            "$type": "color",
+            "$value": "{base.transparent-white}"
+          },
+          "stop100": {
+            "$type": "color",
+            "$value": "{alpha.black.50}"
+          }
         }
       },
       "footers": {
@@ -6039,7 +6103,7 @@ _alias.dark.tokens.json
         "$type": "color",
         "$value": "{success.600}"
       },
-      "info-pbg-rimary": {
+      "info-bg-primary": {
         "$type": "color",
         "$value": "{blue.950}"
       },
@@ -6116,7 +6180,7 @@ _alias.dark.tokens.json
         },
         "shadow-skeumorphic-inner": {
           "$type": "color",
-          "$value": "{alpha.gray-dark.100}"
+          "$value": "{alpha.gray-light.100}"
         },
         "shadow-skeumorphic-inner-border": {
           "$type": "color",
@@ -6229,6 +6293,28 @@ _alias.dark.tokens.json
         "avatar-styles-bg-neutral": {
           "$type": "color",
           "$value": "{gray-true.200}"
+        },
+        "outline": {
+          "open-to-work": {
+            "deg0-stop-0": {
+              "$type": "color",
+              "$value": "{success.500}"
+            },
+            "deg0-stop-100": {
+              "$type": "color",
+              "$value": "{alpha.white.10}"
+            }
+          },
+          "open-to-profesional": {
+            "deg0-stop-0": {
+              "$type": "color",
+              "$value": "{warning.500}"
+            },
+            "deg0-stop-100": {
+              "$type": "color",
+              "$value": "{alpha.white.10}"
+            }
+          }
         }
       },
       "buttons": {
@@ -6247,6 +6333,16 @@ _alias.dark.tokens.json
         "button-destructive-primary-icon-hover": {
           "$type": "color",
           "$value": "{error.200}"
+        },
+        "overlay-linear": {
+          "stop0": {
+            "$type": "color",
+            "$value": "{base.transparent-white}"
+          },
+          "stop100": {
+            "$type": "color",
+            "$value": "{alpha.black.50}"
+          }
         }
       },
       "footers": {
@@ -8315,7 +8411,7 @@ Radius.Website.tokens.json
     "$type": "number",
     "$value": 8
   },
-  "Modals": {
+  "Modal-compact": {
     "$type": "number",
     "$value": 16
   },
@@ -8330,6 +8426,18 @@ Radius.Website.tokens.json
   "full": {
     "$type": "number",
     "$value": 99999
+  },
+  "Badge": {
+    "$type": "number",
+    "$value": 9999
+  },
+  "Badge-square": {
+    "$type": "number",
+    "$value": 9999
+  },
+  "Tooltip": {
+    "$type": "number",
+    "$value": 8
   }
 }
 Radius.Mobile.tokens.json
@@ -8360,7 +8468,7 @@ Radius.Mobile.tokens.json
     "$type": "number",
     "$value": 8
   },
-  "Modals": {
+  "Modal-compact": {
     "$type": "number",
     "$value": 16
   },
@@ -8375,6 +8483,18 @@ Radius.Mobile.tokens.json
   "full": {
     "$type": "number",
     "$value": 6
+  },
+  "Badge": {
+    "$type": "number",
+    "$value": 9999
+  },
+  "Badge-square": {
+    "$type": "number",
+    "$value": 9999
+  },
+  "Tooltip": {
+    "$type": "number",
+    "$value": 8
   }
 }
 Spacing.Mode 1.tokens.json
