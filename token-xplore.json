@@ -2796,6 +2796,16 @@ _alias.day-mode.tokens.json
               "$type": "color",
               "$value": "{warning.950}"
             }
+          },
+          "open-to-coach": {
+            "deg0-stop-0": {
+              "$type": "color",
+              "$value": "{blue-light.500}"
+            },
+            "deg0-stop-100": {
+              "$type": "color",
+              "$value": "{blue-light.950}"
+            }
           }
         }
       },
@@ -3798,16 +3808,6 @@ _alias.day-mode.tokens.json
     }
   },
   "ComponentxGradients colors": {
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
-      }
-    },
     "cards": {
       "summary-card-bg": {
         "dark-deg0-stop-0": {
@@ -3840,15 +3840,17 @@ _alias.day-mode.tokens.json
           "$type": "color",
           "$value": "{Colors.background.bg-primary}"
         }
-      }
-    },
-    "buttons": {
-      "button-ai": {
-        "stop-30": {
+      },
+      "border": {
+        "deg0stop0": {
+          "$type": "color",
+          "$value": "{gradient.crimson-red.500}"
+        },
+        "deg0stop68": {
           "$type": "color",
           "$value": "{gradient.midnight-blue.500}"
         },
-        "stop-100": {
+        "deg0stop100": {
           "$type": "color",
           "$value": "{gradient.persian-green.500}"
         }
@@ -3886,6 +3888,28 @@ _alias.day-mode.tokens.json
       "border-right": {
         "$type": "color",
         "$value": "{gray-light-mode.200}"
+      }
+    },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
+      }
+    },
+    "buttons": {
+      "button-ai": {
+        "stop-30": {
+          "$type": "color",
+          "$value": "{gradient.midnight-blue.500}"
+        },
+        "stop-100": {
+          "$type": "color",
+          "$value": "{gradient.persian-green.500}"
+        }
       }
     },
     "chart": {
@@ -4543,7 +4567,7 @@ _alias.night-mode.tokens.json
             },
             "deg0-stop-100": {
               "$type": "color",
-              "$value": "{alpha.white.10}"
+              "$value": "{success.950}"
             }
           },
           "open-to-profesional": {
@@ -4553,7 +4577,17 @@ _alias.night-mode.tokens.json
             },
             "deg0-stop-100": {
               "$type": "color",
-              "$value": "{warning.800}"
+              "$value": "{warning.900}"
+            }
+          },
+          "open-to-coach": {
+            "deg0-stop-0": {
+              "$type": "color",
+              "$value": "{blue-light.500}"
+            },
+            "deg0-stop-100": {
+              "$type": "color",
+              "$value": "{blue-light.900}"
             }
           }
         }
@@ -5557,16 +5591,6 @@ _alias.night-mode.tokens.json
     }
   },
   "ComponentxGradients colors": {
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
-      }
-    },
     "cards": {
       "summary-card-bg": {
         "dark-deg0-stop-0": {
@@ -5599,15 +5623,17 @@ _alias.night-mode.tokens.json
           "$type": "color",
           "$value": "{base.transparent-black}"
         }
-      }
-    },
-    "buttons": {
-      "button-ai": {
-        "stop-30": {
+      },
+      "border": {
+        "deg0stop0": {
+          "$type": "color",
+          "$value": "{gradient.crimson-red.500}"
+        },
+        "deg0stop68": {
           "$type": "color",
           "$value": "{gradient.midnight-blue.500}"
         },
-        "stop-100": {
+        "deg0stop100": {
           "$type": "color",
           "$value": "{gradient.persian-green.500}"
         }
@@ -5645,6 +5671,28 @@ _alias.night-mode.tokens.json
       "border-right": {
         "$type": "color",
         "$value": "{gray-dark-mode.700}"
+      }
+    },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
+      }
+    },
+    "buttons": {
+      "button-ai": {
+        "stop-30": {
+          "$type": "color",
+          "$value": "{gradient.midnight-blue.500}"
+        },
+        "stop-100": {
+          "$type": "color",
+          "$value": "{gradient.persian-green.500}"
+        }
       }
     },
     "chart": {
@@ -6302,7 +6350,7 @@ _alias.dark.tokens.json
             },
             "deg0-stop-100": {
               "$type": "color",
-              "$value": "{alpha.white.10}"
+              "$value": "{success.950}"
             }
           },
           "open-to-profesional": {
@@ -6312,7 +6360,17 @@ _alias.dark.tokens.json
             },
             "deg0-stop-100": {
               "$type": "color",
-              "$value": "{alpha.white.10}"
+              "$value": "{warning.900}"
+            }
+          },
+          "open-to-coach": {
+            "deg0-stop-0": {
+              "$type": "color",
+              "$value": "{blue-light.500}"
+            },
+            "deg0-stop-100": {
+              "$type": "color",
+              "$value": "{blue-light.900}"
             }
           }
         }
@@ -7316,16 +7374,6 @@ _alias.dark.tokens.json
     }
   },
   "ComponentxGradients colors": {
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
-      }
-    },
     "cards": {
       "summary-card-bg": {
         "dark-deg0-stop-0": {
@@ -7358,15 +7406,17 @@ _alias.dark.tokens.json
           "$type": "color",
           "$value": "{base.transparent-dark}"
         }
-      }
-    },
-    "buttons": {
-      "button-ai": {
-        "stop-30": {
+      },
+      "border": {
+        "deg0stop0": {
+          "$type": "color",
+          "$value": "{gradient.crimson-red.500}"
+        },
+        "deg0stop68": {
           "$type": "color",
           "$value": "{gradient.midnight-blue.500}"
         },
-        "stop-100": {
+        "deg0stop100": {
           "$type": "color",
           "$value": "{gradient.persian-green.500}"
         }
@@ -7404,6 +7454,28 @@ _alias.dark.tokens.json
       "border-right": {
         "$type": "color",
         "$value": "{gray-dark-mode.700}"
+      }
+    },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
+      }
+    },
+    "buttons": {
+      "button-ai": {
+        "stop-30": {
+          "$type": "color",
+          "$value": "{gradient.midnight-blue.500}"
+        },
+        "stop-100": {
+          "$type": "color",
+          "$value": "{gradient.persian-green.500}"
+        }
       }
     },
     "chart": {
