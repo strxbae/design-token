@@ -2829,11 +2829,11 @@ _alias.day-mode.tokens.json
         "overlay-linear": {
           "stop0": {
             "$type": "color",
-            "$value": "{base.transparent-white}"
+            "$value": "{base.transparent-black}"
           },
           "stop100": {
             "$type": "color",
-            "$value": "{alpha.black.40}"
+            "$value": "{alpha.black.60}"
           }
         }
       },
@@ -4126,7 +4126,7 @@ _alias.night-mode.tokens.json
       },
       "border-brand": {
         "$type": "color",
-        "$value": "{brand-dark.400}"
+        "$value": "{brand-light.400}"
       },
       "border-brand-alt": {
         "$type": "color",
@@ -4184,7 +4184,7 @@ _alias.night-mode.tokens.json
       },
       "fg-brand-primary": {
         "$type": "color",
-        "$value": "{brand-dark.500}"
+        "$value": "{brand-light.500}"
       },
       "fg-brand-primary-alt": {
         "$type": "color",
@@ -4192,11 +4192,11 @@ _alias.night-mode.tokens.json
       },
       "fg-brand-secondary": {
         "$type": "color",
-        "$value": "{brand-dark.500}"
+        "$value": "{brand-light.500}"
       },
       "fg-brand-secondary-hover": {
         "$type": "color",
-        "$value": "{brand-dark.600}"
+        "$value": "{brand-light.600}"
       },
       "fg-brand-secondary-alt": {
         "$type": "color",
@@ -4314,11 +4314,11 @@ _alias.night-mode.tokens.json
       },
       "bg-brand-solid": {
         "$type": "color",
-        "$value": "{brand-dark.600}"
+        "$value": "{brand-light.600}"
       },
       "bg-brand-solid-hover": {
         "$type": "color",
-        "$value": "{brand-dark.500}"
+        "$value": "{brand-light.500}"
       },
       "bg-brand-section": {
         "$type": "color",
@@ -4455,7 +4455,7 @@ _alias.night-mode.tokens.json
       "focus-rings": {
         "focus-ring": {
           "$type": "color",
-          "$value": "{brand-dark.500}"
+          "$value": "{brand-light.500}"
         },
         "focus-ring-error": {
           "$type": "color",
@@ -4612,7 +4612,7 @@ _alias.night-mode.tokens.json
         "overlay-linear": {
           "stop0": {
             "$type": "color",
-            "$value": "{base.transparent-white}"
+            "$value": "{base.transparent-black}"
           },
           "stop100": {
             "$type": "color",
@@ -5909,7 +5909,7 @@ _alias.dark.tokens.json
       },
       "border-brand": {
         "$type": "color",
-        "$value": "{brand-dark.400}"
+        "$value": "{brand-light.400}"
       },
       "border-brand-alt": {
         "$type": "color",
@@ -5967,7 +5967,7 @@ _alias.dark.tokens.json
       },
       "fg-brand-primary": {
         "$type": "color",
-        "$value": "{brand-dark.500}"
+        "$value": "{brand-light.500}"
       },
       "fg-brand-primary-alt": {
         "$type": "color",
@@ -5975,11 +5975,11 @@ _alias.dark.tokens.json
       },
       "fg-brand-secondary": {
         "$type": "color",
-        "$value": "{brand-dark.500}"
+        "$value": "{brand-light.500}"
       },
       "fg-brand-secondary-hover": {
         "$type": "color",
-        "$value": "{brand-dark.600}"
+        "$value": "{brand-light.600}"
       },
       "fg-brand-secondary-alt": {
         "$type": "color",
@@ -6097,11 +6097,11 @@ _alias.dark.tokens.json
       },
       "bg-brand-solid": {
         "$type": "color",
-        "$value": "{brand-dark.600}"
+        "$value": "{brand-light.600}"
       },
       "bg-brand-solid-hover": {
         "$type": "color",
-        "$value": "{brand-dark.500}"
+        "$value": "{brand-light.500}"
       },
       "bg-brand-section": {
         "$type": "color",
@@ -6238,7 +6238,7 @@ _alias.dark.tokens.json
       "focus-rings": {
         "focus-ring": {
           "$type": "color",
-          "$value": "{brand-dark.500}"
+          "$value": "{brand-light.500}"
         },
         "focus-ring-error": {
           "$type": "color",
@@ -6395,7 +6395,7 @@ _alias.dark.tokens.json
         "overlay-linear": {
           "stop0": {
             "$type": "color",
-            "$value": "{base.transparent-white}"
+            "$value": "{base.transparent-black}"
           },
           "stop100": {
             "$type": "color",
