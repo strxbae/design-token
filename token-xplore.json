@@ -4761,7 +4761,7 @@ _alias.night-mode.tokens.json
       "brand": {
         "utility-brand-50": {
           "$type": "color",
-          "$value": "{brand-dark.950}"
+          "$value": "{brand-light.950}"
         },
         "utility-brand-50-alt": {
           "$type": "color",
@@ -4769,7 +4769,7 @@ _alias.night-mode.tokens.json
         },
         "utility-brand-100": {
           "$type": "color",
-          "$value": "{brand-dark.900}"
+          "$value": "{brand-light.900}"
         },
         "utility-brand-100-alt": {
           "$type": "color",
@@ -4777,7 +4777,7 @@ _alias.night-mode.tokens.json
         },
         "utility-brand-200": {
           "$type": "color",
-          "$value": "{brand-dark.800}"
+          "$value": "{brand-light.800}"
         },
         "utility-brand-200-alt": {
           "$type": "color",
@@ -4785,7 +4785,7 @@ _alias.night-mode.tokens.json
         },
         "utility-brand-300": {
           "$type": "color",
-          "$value": "{brand-dark.700}"
+          "$value": "{brand-light.700}"
         },
         "utility-brand-300-alt": {
           "$type": "color",
@@ -4793,7 +4793,7 @@ _alias.night-mode.tokens.json
         },
         "utility-brand-400": {
           "$type": "color",
-          "$value": "{brand-dark.600}"
+          "$value": "{brand-light.600}"
         },
         "utility-brand-400-alt": {
           "$type": "color",
@@ -4801,7 +4801,7 @@ _alias.night-mode.tokens.json
         },
         "utility-brand-500": {
           "$type": "color",
-          "$value": "{brand-dark.500}"
+          "$value": "{brand-light.500}"
         },
         "utility-brand-500-alt": {
           "$type": "color",
@@ -4809,7 +4809,7 @@ _alias.night-mode.tokens.json
         },
         "utility-brand-600": {
           "$type": "color",
-          "$value": "{brand-dark.400}"
+          "$value": "{brand-light.400}"
         },
         "utility-brand-600-alt": {
           "$type": "color",
@@ -4817,7 +4817,7 @@ _alias.night-mode.tokens.json
         },
         "utility-brand-700": {
           "$type": "color",
-          "$value": "{brand-dark.300}"
+          "$value": "{brand-light.300}"
         },
         "utility-brand-700-alt": {
           "$type": "color",
@@ -4825,7 +4825,7 @@ _alias.night-mode.tokens.json
         },
         "utility-brand-800": {
           "$type": "color",
-          "$value": "{brand-dark.200}"
+          "$value": "{brand-light.200}"
         },
         "utility-brand-800-alt": {
           "$type": "color",
@@ -4833,7 +4833,7 @@ _alias.night-mode.tokens.json
         },
         "utility-brand-900": {
           "$type": "color",
-          "$value": "{brand-dark.100}"
+          "$value": "{brand-light.100}"
         },
         "utility-brand-900-alt": {
           "$type": "color",
@@ -6544,7 +6544,7 @@ _alias.dark.tokens.json
       "brand": {
         "utility-brand-50": {
           "$type": "color",
-          "$value": "{brand-dark.950}"
+          "$value": "{brand-light.950}"
         },
         "utility-brand-50-alt": {
           "$type": "color",
@@ -6552,7 +6552,7 @@ _alias.dark.tokens.json
         },
         "utility-brand-100": {
           "$type": "color",
-          "$value": "{brand-dark.900}"
+          "$value": "{brand-light.900}"
         },
         "utility-brand-100-alt": {
           "$type": "color",
@@ -6560,7 +6560,7 @@ _alias.dark.tokens.json
         },
         "utility-brand-200": {
           "$type": "color",
-          "$value": "{brand-dark.800}"
+          "$value": "{brand-light.800}"
         },
         "utility-brand-200-alt": {
           "$type": "color",
@@ -6568,7 +6568,7 @@ _alias.dark.tokens.json
         },
         "utility-brand-300": {
           "$type": "color",
-          "$value": "{brand-dark.700}"
+          "$value": "{brand-light.700}"
         },
         "utility-brand-300-alt": {
           "$type": "color",
@@ -6576,7 +6576,7 @@ _alias.dark.tokens.json
         },
         "utility-brand-400": {
           "$type": "color",
-          "$value": "{brand-dark.600}"
+          "$value": "{brand-light.600}"
         },
         "utility-brand-400-alt": {
           "$type": "color",
@@ -6584,7 +6584,7 @@ _alias.dark.tokens.json
         },
         "utility-brand-500": {
           "$type": "color",
-          "$value": "{brand-dark.500}"
+          "$value": "{brand-light.500}"
         },
         "utility-brand-500-alt": {
           "$type": "color",
@@ -6592,7 +6592,7 @@ _alias.dark.tokens.json
         },
         "utility-brand-600": {
           "$type": "color",
-          "$value": "{brand-dark.400}"
+          "$value": "{brand-light.400}"
         },
         "utility-brand-600-alt": {
           "$type": "color",
@@ -6600,7 +6600,7 @@ _alias.dark.tokens.json
         },
         "utility-brand-700": {
           "$type": "color",
-          "$value": "{brand-dark.300}"
+          "$value": "{brand-light.300}"
         },
         "utility-brand-700-alt": {
           "$type": "color",
@@ -6608,7 +6608,7 @@ _alias.dark.tokens.json
         },
         "utility-brand-800": {
           "$type": "color",
-          "$value": "{brand-dark.200}"
+          "$value": "{brand-light.200}"
         },
         "utility-brand-800-alt": {
           "$type": "color",
@@ -6616,7 +6616,7 @@ _alias.dark.tokens.json
         },
         "utility-brand-900": {
           "$type": "color",
-          "$value": "{brand-dark.100}"
+          "$value": "{brand-light.100}"
         },
         "utility-brand-900-alt": {
           "$type": "color",
