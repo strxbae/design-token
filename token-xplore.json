@@ -2001,6 +2001,14 @@ _primitives.Default.tokens.json
     }
   },
   "gradient": {
+    "blue-bar": {
+      "$type": "color",
+      "$value": "#0035fd"
+    },
+    "red-bar": {
+      "$type": "color",
+      "$value": "#f04438"
+    },
     "crimson-red": {
       "25": {
         "$type": "color",
@@ -3808,6 +3816,16 @@ _alias.day-mode.tokens.json
     }
   },
   "ComponentxGradients colors": {
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
+      }
+    },
     "cards": {
       "summary-card-bg": {
         "dark-deg0-stop-0": {
@@ -3888,16 +3906,6 @@ _alias.day-mode.tokens.json
       "border-right": {
         "$type": "color",
         "$value": "{gray-light-mode.200}"
-      }
-    },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
       }
     },
     "buttons": {
@@ -3981,6 +3989,18 @@ _alias.day-mode.tokens.json
             "$type": "color",
             "$value": "#fc7e26"
           }
+        }
+      }
+    },
+    "search-bar": {
+      "search-general": {
+        "stop-0": {
+          "$type": "color",
+          "$value": "{gradient.blue-bar}"
+        },
+        "stop-100": {
+          "$type": "color",
+          "$value": "{gradient.red-bar}"
         }
       }
     }
@@ -5591,6 +5611,16 @@ _alias.night-mode.tokens.json
     }
   },
   "ComponentxGradients colors": {
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
+      }
+    },
     "cards": {
       "summary-card-bg": {
         "dark-deg0-stop-0": {
@@ -5671,16 +5701,6 @@ _alias.night-mode.tokens.json
       "border-right": {
         "$type": "color",
         "$value": "{gray-dark-mode.700}"
-      }
-    },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
       }
     },
     "buttons": {
@@ -5764,6 +5784,18 @@ _alias.night-mode.tokens.json
             "$type": "color",
             "$value": "#fc7e26"
           }
+        }
+      }
+    },
+    "search-bar": {
+      "search-general": {
+        "stop-0": {
+          "$type": "color",
+          "$value": "{gradient.blue-bar}"
+        },
+        "stop-100": {
+          "$type": "color",
+          "$value": "{gradient.red-bar}"
         }
       }
     }
@@ -7374,6 +7406,16 @@ _alias.dark.tokens.json
     }
   },
   "ComponentxGradients colors": {
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
+      }
+    },
     "cards": {
       "summary-card-bg": {
         "dark-deg0-stop-0": {
@@ -7454,16 +7496,6 @@ _alias.dark.tokens.json
       "border-right": {
         "$type": "color",
         "$value": "{gray-dark-mode.700}"
-      }
-    },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
       }
     },
     "buttons": {
@@ -7547,6 +7579,18 @@ _alias.dark.tokens.json
             "$type": "color",
             "$value": "#fc7e26"
           }
+        }
+      }
+    },
+    "search-bar": {
+      "search-general": {
+        "stop-0": {
+          "$type": "color",
+          "$value": "{gradient.blue-bar}"
+        },
+        "stop-100": {
+          "$type": "color",
+          "$value": "{gradient.red-bar}"
         }
       }
     }
