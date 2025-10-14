@@ -2938,6 +2938,24 @@ _alias.day-mode.tokens.json
           "$type": "color",
           "$value": "{gray-light-mode.500}"
         }
+      },
+      "indicator-message": {
+        "sent": {
+          "$type": "color",
+          "$value": "{brand-light.200}"
+        },
+        "delivered": {
+          "$type": "color",
+          "$value": "{brand-light.200}"
+        },
+        "seen-outline": {
+          "$type": "color",
+          "$value": "{brand-light.100}"
+        },
+        "seen-fill": {
+          "$type": "color",
+          "$value": "{brand-light.25}"
+        }
       }
     },
     "utility": {
@@ -3816,6 +3834,52 @@ _alias.day-mode.tokens.json
     }
   },
   "ComponentxGradients colors": {
+    "buttons": {
+      "button-ai": {
+        "stop-30": {
+          "$type": "color",
+          "$value": "{gradient.midnight-blue.500}"
+        },
+        "stop-100": {
+          "$type": "color",
+          "$value": "{gradient.persian-green.500}"
+        }
+      }
+    },
+    "sidebar": {
+      "bg-sidebar": {
+        "radial-deg0-stop0": {
+          "$type": "color",
+          "$value": "rgba(255, 216, 216, 0.0000)"
+        },
+        "radial-deg0-stop100": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      },
+      "item-sidebar": {
+        "dark-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "{base.transparent-black}"
+        },
+        "dark-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "{base.transparent-black}"
+        },
+        "light-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "{brand-light.500}"
+        },
+        "light-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "{brand-light.700}"
+        }
+      },
+      "border-right": {
+        "$type": "color",
+        "$value": "{gray-light-mode.200}"
+      }
+    },
     "heading-fill": {
       "stop-0": {
         "$type": "color",
@@ -3869,52 +3933,6 @@ _alias.day-mode.tokens.json
           "$value": "{gradient.midnight-blue.500}"
         },
         "deg0stop100": {
-          "$type": "color",
-          "$value": "{gradient.persian-green.500}"
-        }
-      }
-    },
-    "sidebar": {
-      "bg-sidebar": {
-        "radial-deg0-stop0": {
-          "$type": "color",
-          "$value": "rgba(255, 216, 216, 0.0000)"
-        },
-        "radial-deg0-stop100": {
-          "$type": "color",
-          "$value": "#ffffff"
-        }
-      },
-      "item-sidebar": {
-        "dark-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "{base.transparent-black}"
-        },
-        "dark-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "{base.transparent-black}"
-        },
-        "light-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "{brand-light.500}"
-        },
-        "light-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "{brand-light.700}"
-        }
-      },
-      "border-right": {
-        "$type": "color",
-        "$value": "{gray-light-mode.200}"
-      }
-    },
-    "buttons": {
-      "button-ai": {
-        "stop-30": {
-          "$type": "color",
-          "$value": "{gradient.midnight-blue.500}"
-        },
-        "stop-100": {
           "$type": "color",
           "$value": "{gradient.persian-green.500}"
         }
@@ -4732,6 +4750,24 @@ _alias.night-mode.tokens.json
         "text-editor-icon-fg-active": {
           "$type": "color",
           "$value": "{gray-light-mode.500}"
+        }
+      },
+      "indicator-message": {
+        "sent": {
+          "$type": "color",
+          "$value": "{brand-light.300}"
+        },
+        "delivered": {
+          "$type": "color",
+          "$value": "{brand-light.300}"
+        },
+        "seen-outline": {
+          "$type": "color",
+          "$value": "{brand-light.200}"
+        },
+        "seen-fill": {
+          "$type": "color",
+          "$value": "{brand-light.25}"
         }
       }
     },
@@ -5611,6 +5647,52 @@ _alias.night-mode.tokens.json
     }
   },
   "ComponentxGradients colors": {
+    "buttons": {
+      "button-ai": {
+        "stop-30": {
+          "$type": "color",
+          "$value": "{gradient.midnight-blue.500}"
+        },
+        "stop-100": {
+          "$type": "color",
+          "$value": "{gradient.persian-green.500}"
+        }
+      }
+    },
+    "sidebar": {
+      "bg-sidebar": {
+        "radial-deg0-stop0": {
+          "$type": "color",
+          "$value": "#462b2b"
+        },
+        "radial-deg0-stop100": {
+          "$type": "color",
+          "$value": "#181a1c"
+        }
+      },
+      "item-sidebar": {
+        "dark-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "dark-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "rgba(153, 153, 153, 0.0000)"
+        },
+        "light-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "{base.transparent-white}"
+        },
+        "light-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "{base.transparent-white}"
+        }
+      },
+      "border-right": {
+        "$type": "color",
+        "$value": "{gray-dark-mode.700}"
+      }
+    },
     "heading-fill": {
       "stop-0": {
         "$type": "color",
@@ -5664,52 +5746,6 @@ _alias.night-mode.tokens.json
           "$value": "{gradient.midnight-blue.500}"
         },
         "deg0stop100": {
-          "$type": "color",
-          "$value": "{gradient.persian-green.500}"
-        }
-      }
-    },
-    "sidebar": {
-      "bg-sidebar": {
-        "radial-deg0-stop0": {
-          "$type": "color",
-          "$value": "#462b2b"
-        },
-        "radial-deg0-stop100": {
-          "$type": "color",
-          "$value": "#181a1c"
-        }
-      },
-      "item-sidebar": {
-        "dark-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "#ffffff"
-        },
-        "dark-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "rgba(153, 153, 153, 0.0000)"
-        },
-        "light-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "{base.transparent-white}"
-        },
-        "light-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "{base.transparent-white}"
-        }
-      },
-      "border-right": {
-        "$type": "color",
-        "$value": "{gray-dark-mode.700}"
-      }
-    },
-    "buttons": {
-      "button-ai": {
-        "stop-30": {
-          "$type": "color",
-          "$value": "{gradient.midnight-blue.500}"
-        },
-        "stop-100": {
           "$type": "color",
           "$value": "{gradient.persian-green.500}"
         }
@@ -6527,6 +6563,24 @@ _alias.dark.tokens.json
         "text-editor-icon-fg-active": {
           "$type": "color",
           "$value": "{gray-light-mode.500}"
+        }
+      },
+      "indicator-message": {
+        "sent": {
+          "$type": "color",
+          "$value": "{brand-light.300}"
+        },
+        "delivered": {
+          "$type": "color",
+          "$value": "{brand-light.300}"
+        },
+        "seen-outline": {
+          "$type": "color",
+          "$value": "{brand-light.200}"
+        },
+        "seen-fill": {
+          "$type": "color",
+          "$value": "{brand-light.25}"
         }
       }
     },
@@ -7406,6 +7460,52 @@ _alias.dark.tokens.json
     }
   },
   "ComponentxGradients colors": {
+    "buttons": {
+      "button-ai": {
+        "stop-30": {
+          "$type": "color",
+          "$value": "{gradient.midnight-blue.500}"
+        },
+        "stop-100": {
+          "$type": "color",
+          "$value": "{gradient.persian-green.500}"
+        }
+      }
+    },
+    "sidebar": {
+      "bg-sidebar": {
+        "radial-deg0-stop0": {
+          "$type": "color",
+          "$value": "#462b2b"
+        },
+        "radial-deg0-stop100": {
+          "$type": "color",
+          "$value": "#181a1c"
+        }
+      },
+      "item-sidebar": {
+        "dark-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "dark-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "rgba(153, 153, 153, 0.0000)"
+        },
+        "light-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "{base.transparent-white}"
+        },
+        "light-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "{base.transparent-white}"
+        }
+      },
+      "border-right": {
+        "$type": "color",
+        "$value": "{gray-dark-mode.700}"
+      }
+    },
     "heading-fill": {
       "stop-0": {
         "$type": "color",
@@ -7459,52 +7559,6 @@ _alias.dark.tokens.json
           "$value": "{gradient.midnight-blue.500}"
         },
         "deg0stop100": {
-          "$type": "color",
-          "$value": "{gradient.persian-green.500}"
-        }
-      }
-    },
-    "sidebar": {
-      "bg-sidebar": {
-        "radial-deg0-stop0": {
-          "$type": "color",
-          "$value": "#462b2b"
-        },
-        "radial-deg0-stop100": {
-          "$type": "color",
-          "$value": "#181a1c"
-        }
-      },
-      "item-sidebar": {
-        "dark-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "#ffffff"
-        },
-        "dark-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "rgba(153, 153, 153, 0.0000)"
-        },
-        "light-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "{base.transparent-white}"
-        },
-        "light-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "{base.transparent-white}"
-        }
-      },
-      "border-right": {
-        "$type": "color",
-        "$value": "{gray-dark-mode.700}"
-      }
-    },
-    "buttons": {
-      "button-ai": {
-        "stop-30": {
-          "$type": "color",
-          "$value": "{gradient.midnight-blue.500}"
-        },
-        "stop-100": {
           "$type": "color",
           "$value": "{gradient.persian-green.500}"
         }
