@@ -1,4 +1,3 @@
-_primitives.Default.tokens.json
 {
   "base": {
     "white": {
@@ -2969,6 +2968,32 @@ _alias.day-mode.tokens.json
         "border-snippet": {
           "$type": "color",
           "$value": "{alpha.white.30}"
+        },
+        "on-buble": {
+          "bg-snippet-out": {
+            "$type": "color",
+            "$value": "{alpha.white.20}"
+          },
+          "border-snippet-out": {
+            "$type": "color",
+            "$value": "{alpha.white.10}"
+          },
+          "bg-snippet-in": {
+            "$type": "color",
+            "$value": "{alpha.black.02}"
+          },
+          "border-snippet-in": {
+            "$type": "color",
+            "$value": "{alpha.white.30}"
+          }
+        },
+        "bg-snippet 2": {
+          "$type": "color",
+          "$value": "{alpha.black.02}"
+        },
+        "border-snippet 2": {
+          "$type": "color",
+          "$value": "{alpha.white.30}"
         }
       }
     },
@@ -3848,6 +3873,50 @@ _alias.day-mode.tokens.json
     }
   },
   "ComponentxGradients colors": {
+    "sidebar": {
+      "bg-sidebar": {
+        "radial-deg0-stop0": {
+          "$type": "color",
+          "$value": "rgba(255, 216, 216, 0.0000)"
+        },
+        "radial-deg0-stop100": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      },
+      "item-sidebar": {
+        "dark-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "{base.transparent-black}"
+        },
+        "dark-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "{base.transparent-black}"
+        },
+        "light-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "{brand-light.500}"
+        },
+        "light-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "{brand-light.700}"
+        }
+      },
+      "border-right": {
+        "$type": "color",
+        "$value": "{gray-light-mode.200}"
+      }
+    },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
+      }
+    },
     "cards": {
       "summary-card-bg": {
         "dark-deg0-stop-0": {
@@ -3894,50 +3963,6 @@ _alias.day-mode.tokens.json
           "$type": "color",
           "$value": "{gradient.persian-green.500}"
         }
-      }
-    },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
-      }
-    },
-    "sidebar": {
-      "bg-sidebar": {
-        "radial-deg0-stop0": {
-          "$type": "color",
-          "$value": "rgba(255, 216, 216, 0.0000)"
-        },
-        "radial-deg0-stop100": {
-          "$type": "color",
-          "$value": "#ffffff"
-        }
-      },
-      "item-sidebar": {
-        "dark-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "{base.transparent-black}"
-        },
-        "dark-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "{base.transparent-black}"
-        },
-        "light-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "{brand-light.500}"
-        },
-        "light-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "{brand-light.700}"
-        }
-      },
-      "border-right": {
-        "$type": "color",
-        "$value": "{gray-light-mode.200}"
       }
     },
     "buttons": {
@@ -4790,6 +4815,32 @@ _alias.night-mode.tokens.json
           "$value": "{alpha.white.10}"
         },
         "border-snippet": {
+          "$type": "color",
+          "$value": "{alpha.white.10}"
+        },
+        "on-buble": {
+          "bg-snippet-out": {
+            "$type": "color",
+            "$value": "{alpha.black.20}"
+          },
+          "border-snippet-out": {
+            "$type": "color",
+            "$value": "{alpha.white.10}"
+          },
+          "bg-snippet-in": {
+            "$type": "color",
+            "$value": "{alpha.white.10}"
+          },
+          "border-snippet-in": {
+            "$type": "color",
+            "$value": "{alpha.white.10}"
+          }
+        },
+        "bg-snippet 2": {
+          "$type": "color",
+          "$value": "{alpha.white.10}"
+        },
+        "border-snippet 2": {
           "$type": "color",
           "$value": "{alpha.white.10}"
         }
@@ -5671,6 +5722,50 @@ _alias.night-mode.tokens.json
     }
   },
   "ComponentxGradients colors": {
+    "sidebar": {
+      "bg-sidebar": {
+        "radial-deg0-stop0": {
+          "$type": "color",
+          "$value": "#462b2b"
+        },
+        "radial-deg0-stop100": {
+          "$type": "color",
+          "$value": "#181a1c"
+        }
+      },
+      "item-sidebar": {
+        "dark-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "dark-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "rgba(153, 153, 153, 0.0000)"
+        },
+        "light-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "{base.transparent-white}"
+        },
+        "light-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "{base.transparent-white}"
+        }
+      },
+      "border-right": {
+        "$type": "color",
+        "$value": "{gray-dark-mode.700}"
+      }
+    },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
+      }
+    },
     "cards": {
       "summary-card-bg": {
         "dark-deg0-stop-0": {
@@ -5717,50 +5812,6 @@ _alias.night-mode.tokens.json
           "$type": "color",
           "$value": "{gradient.persian-green.500}"
         }
-      }
-    },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
-      }
-    },
-    "sidebar": {
-      "bg-sidebar": {
-        "radial-deg0-stop0": {
-          "$type": "color",
-          "$value": "#462b2b"
-        },
-        "radial-deg0-stop100": {
-          "$type": "color",
-          "$value": "#181a1c"
-        }
-      },
-      "item-sidebar": {
-        "dark-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "#ffffff"
-        },
-        "dark-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "rgba(153, 153, 153, 0.0000)"
-        },
-        "light-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "{base.transparent-white}"
-        },
-        "light-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "{base.transparent-white}"
-        }
-      },
-      "border-right": {
-        "$type": "color",
-        "$value": "{gray-dark-mode.700}"
       }
     },
     "buttons": {
@@ -6613,6 +6664,32 @@ _alias.dark.tokens.json
           "$value": "{alpha.white.10}"
         },
         "border-snippet": {
+          "$type": "color",
+          "$value": "{alpha.white.10}"
+        },
+        "on-buble": {
+          "bg-snippet-out": {
+            "$type": "color",
+            "$value": "{alpha.black.20}"
+          },
+          "border-snippet-out": {
+            "$type": "color",
+            "$value": "{alpha.white.10}"
+          },
+          "bg-snippet-in": {
+            "$type": "color",
+            "$value": "{alpha.white.10}"
+          },
+          "border-snippet-in": {
+            "$type": "color",
+            "$value": "{alpha.white.10}"
+          }
+        },
+        "bg-snippet 2": {
+          "$type": "color",
+          "$value": "{alpha.white.10}"
+        },
+        "border-snippet 2": {
           "$type": "color",
           "$value": "{alpha.white.10}"
         }
@@ -7494,6 +7571,50 @@ _alias.dark.tokens.json
     }
   },
   "ComponentxGradients colors": {
+    "sidebar": {
+      "bg-sidebar": {
+        "radial-deg0-stop0": {
+          "$type": "color",
+          "$value": "#462b2b"
+        },
+        "radial-deg0-stop100": {
+          "$type": "color",
+          "$value": "#181a1c"
+        }
+      },
+      "item-sidebar": {
+        "dark-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "dark-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "rgba(153, 153, 153, 0.0000)"
+        },
+        "light-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "{base.transparent-white}"
+        },
+        "light-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "{base.transparent-white}"
+        }
+      },
+      "border-right": {
+        "$type": "color",
+        "$value": "{gray-dark-mode.700}"
+      }
+    },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
+      }
+    },
     "cards": {
       "summary-card-bg": {
         "dark-deg0-stop-0": {
@@ -7540,50 +7661,6 @@ _alias.dark.tokens.json
           "$type": "color",
           "$value": "{gradient.persian-green.500}"
         }
-      }
-    },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
-      }
-    },
-    "sidebar": {
-      "bg-sidebar": {
-        "radial-deg0-stop0": {
-          "$type": "color",
-          "$value": "#462b2b"
-        },
-        "radial-deg0-stop100": {
-          "$type": "color",
-          "$value": "#181a1c"
-        }
-      },
-      "item-sidebar": {
-        "dark-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "#ffffff"
-        },
-        "dark-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "rgba(153, 153, 153, 0.0000)"
-        },
-        "light-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "{base.transparent-white}"
-        },
-        "light-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "{base.transparent-white}"
-        }
-      },
-      "border-right": {
-        "$type": "color",
-        "$value": "{gray-dark-mode.700}"
       }
     },
     "buttons": {
