@@ -1,4 +1,3 @@
-_primitives(Brand).xploreU.tokens.json
 {
   "base": {
     "white": {
@@ -10958,6 +10957,10 @@ Radius.Default.tokens.json
     "card-profile": {
       "$type": "number",
       "$value": 12
+    },
+    "buble-chat": {
+      "$type": "number",
+      "$value": 8
     }
   },
   "buttons": {
