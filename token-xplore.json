@@ -1,3 +1,4 @@
+_primitives(Brand).xploreU.tokens.json
 {
   "base": {
     "white": {
@@ -2021,6 +2022,38 @@
       "$value": "#0035fd"
     },
     "red-bar": {
+      "$type": "color",
+      "$value": "#f04438"
+    },
+    "linear-blue-0": {
+      "$type": "color",
+      "$value": "#1a28cb"
+    },
+    "linear-blue-100": {
+      "$type": "color",
+      "$value": "#010f81"
+    },
+    "linear-green-0": {
+      "$type": "color",
+      "$value": "{green.900}"
+    },
+    "linear-green-100": {
+      "$type": "color",
+      "$value": "{green.500}"
+    },
+    "linear-neutral-0": {
+      "$type": "color",
+      "$value": "#0c0e12"
+    },
+    "linear-neutral-100": {
+      "$type": "color",
+      "$value": "#212733"
+    },
+    "linear-orange-0": {
+      "$type": "color",
+      "$value": "#e27f4f"
+    },
+    "linear-orange-58": {
       "$type": "color",
       "$value": "#f04438"
     },
@@ -4253,6 +4286,38 @@ _primitives(Brand).hq.tokens.json
       "$type": "color",
       "$value": "#f04438"
     },
+    "linear-blue-0": {
+      "$type": "color",
+      "$value": "#1a28cb"
+    },
+    "linear-blue-100": {
+      "$type": "color",
+      "$value": "#010f81"
+    },
+    "linear-green-0": {
+      "$type": "color",
+      "$value": "{green.900}"
+    },
+    "linear-green-100": {
+      "$type": "color",
+      "$value": "{green.500}"
+    },
+    "linear-neutral-0": {
+      "$type": "color",
+      "$value": "#0c0e12"
+    },
+    "linear-neutral-100": {
+      "$type": "color",
+      "$value": "#212733"
+    },
+    "linear-orange-0": {
+      "$type": "color",
+      "$value": "#e27f4f"
+    },
+    "linear-orange-58": {
+      "$type": "color",
+      "$value": "#f04438"
+    },
     "crimson-red": {
       "25": {
         "$type": "color",
@@ -4558,6 +4623,10 @@ _alias.day-mode.tokens.json
       "text-info-primary": {
         "$type": "color",
         "$value": "{blue.600}"
+      },
+      "text-orange": {
+        "$type": "color",
+        "$value": "{terracotta-orange.600}"
       }
     },
     "border": {
@@ -4608,6 +4677,14 @@ _alias.day-mode.tokens.json
       "border-error-subtle": {
         "$type": "color",
         "$value": "{error.300}"
+      },
+      "border-success": {
+        "$type": "color",
+        "$value": "{success.500}"
+      },
+      "border-orange": {
+        "$type": "color",
+        "$value": "{terracotta-orange.500}"
       }
     },
     "foreground": {
@@ -4848,6 +4925,10 @@ _alias.day-mode.tokens.json
       "bg-info-solid": {
         "$type": "color",
         "$value": "{blue.600}"
+      },
+      "orange-bg-primary": {
+        "$type": "color",
+        "$value": "{terracotta-orange.50}"
       }
     },
     "effects": {
@@ -4929,6 +5010,14 @@ _alias.day-mode.tokens.json
         "focus-ring-error": {
           "$type": "color",
           "$value": "{error.500}"
+        },
+        "focus-ring-success": {
+          "$type": "color",
+          "$value": "{success.600}"
+        },
+        "focus-ring-orange": {
+          "$type": "color",
+          "$value": "{terracotta-orange.500}"
         }
       }
     }
@@ -5085,6 +5174,14 @@ _alias.day-mode.tokens.json
         "button-destructive-primary-icon-hover": {
           "$type": "color",
           "$value": "{error.200}"
+        },
+        "button-orange-icon": {
+          "$type": "color",
+          "$value": "{terracotta-orange.50}"
+        },
+        "button-orange-icon-hover": {
+          "$type": "color",
+          "$value": "{terracotta-orange.100}"
         },
         "overlay-linear": {
           "stop0": {
@@ -6132,14 +6229,34 @@ _alias.day-mode.tokens.json
         }
       }
     },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
+    "buble-message": {
+      "out-message": {
+        "read-message-stop-0": {
+          "$type": "color",
+          "$value": "{gradient.linear-green-0}"
+        },
+        "read-message-stop-100": {
+          "$type": "color",
+          "$value": "{gradient.linear-green-100}"
+        },
+        "unread-message-stop-0": {
+          "$type": "color",
+          "$value": "{gradient.linear-blue-0}"
+        },
+        "unread-message-stop-100": {
+          "$type": "color",
+          "$value": "{gradient.linear-blue-100}"
+        }
       },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
+      "in-message": {
+        "in-message-stop-0": {
+          "$type": "color",
+          "$value": "{gray-light-mode.25}"
+        },
+        "in-message-stop-100": {
+          "$type": "color",
+          "$value": "{gray-light-mode.25}"
+        }
       }
     },
     "cards": {
@@ -6188,6 +6305,16 @@ _alias.day-mode.tokens.json
           "$type": "color",
           "$value": "{gradient.persian-green.500}"
         }
+      }
+    },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
       }
     },
     "sidebar": {
@@ -6413,6 +6540,10 @@ _alias.night-mode.tokens.json
       "text-info-primary": {
         "$type": "color",
         "$value": "{blue.400}"
+      },
+      "text-orange": {
+        "$type": "color",
+        "$value": "{terracotta-orange.400}"
       }
     },
     "border": {
@@ -6463,6 +6594,14 @@ _alias.night-mode.tokens.json
       "border-error-subtle": {
         "$type": "color",
         "$value": "{error.300}"
+      },
+      "border-success": {
+        "$type": "color",
+        "$value": "{success.400}"
+      },
+      "border-orange": {
+        "$type": "color",
+        "$value": "{terracotta-orange.400}"
       }
     },
     "foreground": {
@@ -6703,6 +6842,10 @@ _alias.night-mode.tokens.json
       "bg-info-solid": {
         "$type": "color",
         "$value": "{blue.600}"
+      },
+      "orange-bg-primary": {
+        "$type": "color",
+        "$value": "{terracotta-orange.950}"
       }
     },
     "effects": {
@@ -6784,6 +6927,14 @@ _alias.night-mode.tokens.json
         "focus-ring-error": {
           "$type": "color",
           "$value": "{error.500}"
+        },
+        "focus-ring-success": {
+          "$type": "color",
+          "$value": "{success.600}"
+        },
+        "focus-ring-orange": {
+          "$type": "color",
+          "$value": "{terracotta-orange.600}"
         }
       }
     }
@@ -6940,6 +7091,14 @@ _alias.night-mode.tokens.json
         "button-destructive-primary-icon-hover": {
           "$type": "color",
           "$value": "{error.200}"
+        },
+        "button-orange-icon": {
+          "$type": "color",
+          "$value": "{terracotta-orange.50}"
+        },
+        "button-orange-icon-hover": {
+          "$type": "color",
+          "$value": "{terracotta-orange.100}"
         },
         "overlay-linear": {
           "stop0": {
@@ -7987,14 +8146,34 @@ _alias.night-mode.tokens.json
         }
       }
     },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
+    "buble-message": {
+      "out-message": {
+        "read-message-stop-0": {
+          "$type": "color",
+          "$value": "{gradient.linear-green-0}"
+        },
+        "read-message-stop-100": {
+          "$type": "color",
+          "$value": "{gradient.linear-green-100}"
+        },
+        "unread-message-stop-0": {
+          "$type": "color",
+          "$value": "{gradient.linear-blue-0}"
+        },
+        "unread-message-stop-100": {
+          "$type": "color",
+          "$value": "{gradient.linear-blue-100}"
+        }
       },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
+      "in-message": {
+        "in-message-stop-0": {
+          "$type": "color",
+          "$value": "{gradient.linear-neutral-0}"
+        },
+        "in-message-stop-100": {
+          "$type": "color",
+          "$value": "{gradient.linear-neutral-100}"
+        }
       }
     },
     "cards": {
@@ -8043,6 +8222,16 @@ _alias.night-mode.tokens.json
           "$type": "color",
           "$value": "{gradient.persian-green.500}"
         }
+      }
+    },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
       }
     },
     "sidebar": {
@@ -8268,6 +8457,10 @@ _alias.dark.tokens.json
       "text-info-primary": {
         "$type": "color",
         "$value": "{blue.400}"
+      },
+      "text-orange": {
+        "$type": "color",
+        "$value": "{terracotta-orange.400}"
       }
     },
     "border": {
@@ -8318,6 +8511,14 @@ _alias.dark.tokens.json
       "border-error-subtle": {
         "$type": "color",
         "$value": "{error.300}"
+      },
+      "border-success": {
+        "$type": "color",
+        "$value": "{success.400}"
+      },
+      "border-orange": {
+        "$type": "color",
+        "$value": "{terracotta-orange.400}"
       }
     },
     "foreground": {
@@ -8558,6 +8759,10 @@ _alias.dark.tokens.json
       "bg-info-solid": {
         "$type": "color",
         "$value": "{blue.600}"
+      },
+      "orange-bg-primary": {
+        "$type": "color",
+        "$value": "{terracotta-orange.950}"
       }
     },
     "effects": {
@@ -8639,6 +8844,14 @@ _alias.dark.tokens.json
         "focus-ring-error": {
           "$type": "color",
           "$value": "{error.500}"
+        },
+        "focus-ring-success": {
+          "$type": "color",
+          "$value": "{success.600}"
+        },
+        "focus-ring-orange": {
+          "$type": "color",
+          "$value": "{terracotta-orange.600}"
         }
       }
     }
@@ -8795,6 +9008,14 @@ _alias.dark.tokens.json
         "button-destructive-primary-icon-hover": {
           "$type": "color",
           "$value": "{error.200}"
+        },
+        "button-orange-icon": {
+          "$type": "color",
+          "$value": "{terracotta-orange.50}"
+        },
+        "button-orange-icon-hover": {
+          "$type": "color",
+          "$value": "{terracotta-orange.100}"
         },
         "overlay-linear": {
           "stop0": {
@@ -9842,14 +10063,34 @@ _alias.dark.tokens.json
         }
       }
     },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
+    "buble-message": {
+      "out-message": {
+        "read-message-stop-0": {
+          "$type": "color",
+          "$value": "{gradient.linear-green-0}"
+        },
+        "read-message-stop-100": {
+          "$type": "color",
+          "$value": "{gradient.linear-green-100}"
+        },
+        "unread-message-stop-0": {
+          "$type": "color",
+          "$value": "{gradient.linear-blue-0}"
+        },
+        "unread-message-stop-100": {
+          "$type": "color",
+          "$value": "{gradient.linear-blue-100}"
+        }
       },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
+      "in-message": {
+        "in-message-stop-0": {
+          "$type": "color",
+          "$value": "{gradient.linear-neutral-0}"
+        },
+        "in-message-stop-100": {
+          "$type": "color",
+          "$value": "{gradient.linear-neutral-100}"
+        }
       }
     },
     "cards": {
@@ -9898,6 +10139,16 @@ _alias.dark.tokens.json
           "$type": "color",
           "$value": "{gradient.persian-green.500}"
         }
+      }
+    },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
       }
     },
     "sidebar": {
