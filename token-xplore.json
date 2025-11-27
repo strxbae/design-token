@@ -5192,6 +5192,16 @@ _alias.day-mode.tokens.json
             "$type": "color",
             "$value": "{alpha.black.60}"
           }
+        },
+        "bg-button-linear": {
+          "stop-0": {
+            "$type": "color",
+            "$value": "{gradient.linear-blue-0}"
+          },
+          "stop-100": {
+            "$type": "color",
+            "$value": "{gradient.linear-blue-100}"
+          }
         }
       },
       "footers": {
@@ -7109,6 +7119,16 @@ _alias.night-mode.tokens.json
             "$type": "color",
             "$value": "{alpha.black.50}"
           }
+        },
+        "bg-button-linear": {
+          "stop-0": {
+            "$type": "color",
+            "$value": "{gradient.linear-blue-0}"
+          },
+          "stop-100": {
+            "$type": "color",
+            "$value": "{gradient.linear-blue-100}"
+          }
         }
       },
       "footers": {
@@ -9025,6 +9045,16 @@ _alias.dark.tokens.json
           "stop100": {
             "$type": "color",
             "$value": "{alpha.black.50}"
+          }
+        },
+        "bg-button-linear": {
+          "stop-0": {
+            "$type": "color",
+            "$value": "{gradient.linear-blue-0}"
+          },
+          "stop-100": {
+            "$type": "color",
+            "$value": "{gradient.linear-blue-100}"
           }
         }
       },
