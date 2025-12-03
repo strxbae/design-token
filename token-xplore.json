@@ -4854,6 +4854,10 @@ _alias.day-mode.tokens.json
         "$type": "color",
         "$value": "{brand-light.50}"
       },
+      "bg-brand-primary-hover-alt": {
+        "$type": "color",
+        "$value": "{brand-light.100}"
+      },
       "bg-brand-secondary": {
         "$type": "color",
         "$value": "{brand-light.100}"
@@ -6269,6 +6273,40 @@ _alias.day-mode.tokens.json
         }
       }
     },
+    "sidebar": {
+      "bg-sidebar": {
+        "radial-deg0-stop0": {
+          "$type": "color",
+          "$value": "rgba(255, 216, 216, 0.0000)"
+        },
+        "radial-deg0-stop100": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      },
+      "item-sidebar": {
+        "dark-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "{base.transparent-black}"
+        },
+        "dark-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "{base.transparent-black}"
+        },
+        "light-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "{brand-light.500}"
+        },
+        "light-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "{brand-light.700}"
+        }
+      },
+      "border-right": {
+        "$type": "color",
+        "$value": "{gray-light-mode.200}"
+      }
+    },
     "cards": {
       "summary-card-bg": {
         "dark-deg0-stop-0": {
@@ -6325,40 +6363,6 @@ _alias.day-mode.tokens.json
       "stop-50": {
         "$type": "color",
         "$value": "{brand-light.300}"
-      }
-    },
-    "sidebar": {
-      "bg-sidebar": {
-        "radial-deg0-stop0": {
-          "$type": "color",
-          "$value": "rgba(255, 216, 216, 0.0000)"
-        },
-        "radial-deg0-stop100": {
-          "$type": "color",
-          "$value": "#ffffff"
-        }
-      },
-      "item-sidebar": {
-        "dark-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "{base.transparent-black}"
-        },
-        "dark-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "{base.transparent-black}"
-        },
-        "light-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "{brand-light.500}"
-        },
-        "light-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "{brand-light.700}"
-        }
-      },
-      "border-right": {
-        "$type": "color",
-        "$value": "{gray-light-mode.200}"
       }
     },
     "chart": {
@@ -6780,6 +6784,10 @@ _alias.night-mode.tokens.json
       "bg-brand-primary-alt": {
         "$type": "color",
         "$value": "{alpha.white.05}"
+      },
+      "bg-brand-primary-hover-alt": {
+        "$type": "color",
+        "$value": "{alpha.white.10}"
       },
       "bg-brand-secondary": {
         "$type": "color",
@@ -8196,6 +8204,40 @@ _alias.night-mode.tokens.json
         }
       }
     },
+    "sidebar": {
+      "bg-sidebar": {
+        "radial-deg0-stop0": {
+          "$type": "color",
+          "$value": "#462b2b"
+        },
+        "radial-deg0-stop100": {
+          "$type": "color",
+          "$value": "#181a1c"
+        }
+      },
+      "item-sidebar": {
+        "dark-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "dark-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "rgba(153, 153, 153, 0.0000)"
+        },
+        "light-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "{base.transparent-white}"
+        },
+        "light-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "{base.transparent-white}"
+        }
+      },
+      "border-right": {
+        "$type": "color",
+        "$value": "{gray-dark-mode.700}"
+      }
+    },
     "cards": {
       "summary-card-bg": {
         "dark-deg0-stop-0": {
@@ -8252,40 +8294,6 @@ _alias.night-mode.tokens.json
       "stop-50": {
         "$type": "color",
         "$value": "{brand-light.300}"
-      }
-    },
-    "sidebar": {
-      "bg-sidebar": {
-        "radial-deg0-stop0": {
-          "$type": "color",
-          "$value": "#462b2b"
-        },
-        "radial-deg0-stop100": {
-          "$type": "color",
-          "$value": "#181a1c"
-        }
-      },
-      "item-sidebar": {
-        "dark-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "#ffffff"
-        },
-        "dark-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "rgba(153, 153, 153, 0.0000)"
-        },
-        "light-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "{base.transparent-white}"
-        },
-        "light-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "{base.transparent-white}"
-        }
-      },
-      "border-right": {
-        "$type": "color",
-        "$value": "{gray-dark-mode.700}"
       }
     },
     "chart": {
@@ -8707,6 +8715,10 @@ _alias.dark.tokens.json
       "bg-brand-primary-alt": {
         "$type": "color",
         "$value": "{alpha.white.05}"
+      },
+      "bg-brand-primary-hover-alt": {
+        "$type": "color",
+        "$value": "{alpha.white.10}"
       },
       "bg-brand-secondary": {
         "$type": "color",
@@ -10123,6 +10135,40 @@ _alias.dark.tokens.json
         }
       }
     },
+    "sidebar": {
+      "bg-sidebar": {
+        "radial-deg0-stop0": {
+          "$type": "color",
+          "$value": "#462b2b"
+        },
+        "radial-deg0-stop100": {
+          "$type": "color",
+          "$value": "#181a1c"
+        }
+      },
+      "item-sidebar": {
+        "dark-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "dark-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "rgba(153, 153, 153, 0.0000)"
+        },
+        "light-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "{base.transparent-white}"
+        },
+        "light-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "{base.transparent-white}"
+        }
+      },
+      "border-right": {
+        "$type": "color",
+        "$value": "{gray-dark-mode.700}"
+      }
+    },
     "cards": {
       "summary-card-bg": {
         "dark-deg0-stop-0": {
@@ -10179,40 +10225,6 @@ _alias.dark.tokens.json
       "stop-50": {
         "$type": "color",
         "$value": "{brand-light.300}"
-      }
-    },
-    "sidebar": {
-      "bg-sidebar": {
-        "radial-deg0-stop0": {
-          "$type": "color",
-          "$value": "#462b2b"
-        },
-        "radial-deg0-stop100": {
-          "$type": "color",
-          "$value": "#181a1c"
-        }
-      },
-      "item-sidebar": {
-        "dark-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "#ffffff"
-        },
-        "dark-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "rgba(153, 153, 153, 0.0000)"
-        },
-        "light-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "{base.transparent-white}"
-        },
-        "light-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "{base.transparent-white}"
-        }
-      },
-      "border-right": {
-        "$type": "color",
-        "$value": "{gray-dark-mode.700}"
       }
     },
     "chart": {
