@@ -7618,7 +7618,7 @@ _alias.day-mode.tokens.json
       "polling": {
         "text-selected": {
           "$type": "color",
-          "$value": "{brand-light.300}"
+          "$value": "{gray-iron.400}"
         },
         "bg-area": {
           "$type": "color",
@@ -8592,6 +8592,16 @@ _alias.day-mode.tokens.json
         }
       }
     },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
+      }
+    },
     "sidebar": {
       "bg-sidebar": {
         "radial-deg0-stop0": {
@@ -8624,16 +8634,6 @@ _alias.day-mode.tokens.json
       "border-right": {
         "$type": "color",
         "$value": "{gray-light-mode.200}"
-      }
-    },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
       }
     },
     "chart": {
@@ -10533,6 +10533,16 @@ _alias.night-mode.tokens.json
         }
       }
     },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
+      }
+    },
     "sidebar": {
       "bg-sidebar": {
         "radial-deg0-stop0": {
@@ -10565,16 +10575,6 @@ _alias.night-mode.tokens.json
       "border-right": {
         "$type": "color",
         "$value": "{gray-dark-mode.700}"
-      }
-    },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
       }
     },
     "chart": {
@@ -12474,6 +12474,16 @@ _alias.dark.tokens.json
         }
       }
     },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
+      }
+    },
     "sidebar": {
       "bg-sidebar": {
         "radial-deg0-stop0": {
@@ -12506,16 +12516,6 @@ _alias.dark.tokens.json
       "border-right": {
         "$type": "color",
         "$value": "{gray-dark-mode.700}"
-      }
-    },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
       }
     },
     "chart": {
