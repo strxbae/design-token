@@ -8544,6 +8544,40 @@ _alias.day-mode.tokens.json
         }
       }
     },
+    "sidebar": {
+      "bg-sidebar": {
+        "radial-deg0-stop0": {
+          "$type": "color",
+          "$value": "rgba(255, 216, 216, 0.0000)"
+        },
+        "radial-deg0-stop100": {
+          "$type": "color",
+          "$value": "#ffffff"
+        }
+      },
+      "item-sidebar": {
+        "dark-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "{base.transparent-black}"
+        },
+        "dark-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "{base.transparent-black}"
+        },
+        "light-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "{brand-light.500}"
+        },
+        "light-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "{brand-light.700}"
+        }
+      },
+      "border-right": {
+        "$type": "color",
+        "$value": "{gray-light-mode.200}"
+      }
+    },
     "cards": {
       "summary-card-bg": {
         "dark-deg0-stop-0": {
@@ -8600,40 +8634,6 @@ _alias.day-mode.tokens.json
       "stop-50": {
         "$type": "color",
         "$value": "{brand-light.300}"
-      }
-    },
-    "sidebar": {
-      "bg-sidebar": {
-        "radial-deg0-stop0": {
-          "$type": "color",
-          "$value": "rgba(255, 216, 216, 0.0000)"
-        },
-        "radial-deg0-stop100": {
-          "$type": "color",
-          "$value": "#ffffff"
-        }
-      },
-      "item-sidebar": {
-        "dark-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "{base.transparent-black}"
-        },
-        "dark-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "{base.transparent-black}"
-        },
-        "light-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "{brand-light.500}"
-        },
-        "light-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "{brand-light.700}"
-        }
-      },
-      "border-right": {
-        "$type": "color",
-        "$value": "{gray-light-mode.200}"
       }
     },
     "chart": {
@@ -10485,6 +10485,40 @@ _alias.night-mode.tokens.json
         }
       }
     },
+    "sidebar": {
+      "bg-sidebar": {
+        "radial-deg0-stop0": {
+          "$type": "color",
+          "$value": "#462b2b"
+        },
+        "radial-deg0-stop100": {
+          "$type": "color",
+          "$value": "#181a1c"
+        }
+      },
+      "item-sidebar": {
+        "dark-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "dark-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "rgba(153, 153, 153, 0.0000)"
+        },
+        "light-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "{base.transparent-white}"
+        },
+        "light-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "{base.transparent-white}"
+        }
+      },
+      "border-right": {
+        "$type": "color",
+        "$value": "{gray-dark-mode.700}"
+      }
+    },
     "cards": {
       "summary-card-bg": {
         "dark-deg0-stop-0": {
@@ -10541,40 +10575,6 @@ _alias.night-mode.tokens.json
       "stop-50": {
         "$type": "color",
         "$value": "{brand-light.300}"
-      }
-    },
-    "sidebar": {
-      "bg-sidebar": {
-        "radial-deg0-stop0": {
-          "$type": "color",
-          "$value": "#462b2b"
-        },
-        "radial-deg0-stop100": {
-          "$type": "color",
-          "$value": "#181a1c"
-        }
-      },
-      "item-sidebar": {
-        "dark-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "#ffffff"
-        },
-        "dark-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "rgba(153, 153, 153, 0.0000)"
-        },
-        "light-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "{base.transparent-white}"
-        },
-        "light-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "{base.transparent-white}"
-        }
-      },
-      "border-right": {
-        "$type": "color",
-        "$value": "{gray-dark-mode.700}"
       }
     },
     "chart": {
@@ -12426,6 +12426,40 @@ _alias.dark.tokens.json
         }
       }
     },
+    "sidebar": {
+      "bg-sidebar": {
+        "radial-deg0-stop0": {
+          "$type": "color",
+          "$value": "#462b2b"
+        },
+        "radial-deg0-stop100": {
+          "$type": "color",
+          "$value": "#181a1c"
+        }
+      },
+      "item-sidebar": {
+        "dark-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "dark-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "rgba(153, 153, 153, 0.0000)"
+        },
+        "light-fill-deg90-stop0": {
+          "$type": "color",
+          "$value": "{base.transparent-white}"
+        },
+        "light-fill-deg90-stop100": {
+          "$type": "color",
+          "$value": "{base.transparent-white}"
+        }
+      },
+      "border-right": {
+        "$type": "color",
+        "$value": "{gray-dark-mode.700}"
+      }
+    },
     "cards": {
       "summary-card-bg": {
         "dark-deg0-stop-0": {
@@ -12482,40 +12516,6 @@ _alias.dark.tokens.json
       "stop-50": {
         "$type": "color",
         "$value": "{brand-light.300}"
-      }
-    },
-    "sidebar": {
-      "bg-sidebar": {
-        "radial-deg0-stop0": {
-          "$type": "color",
-          "$value": "#462b2b"
-        },
-        "radial-deg0-stop100": {
-          "$type": "color",
-          "$value": "#181a1c"
-        }
-      },
-      "item-sidebar": {
-        "dark-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "#ffffff"
-        },
-        "dark-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "rgba(153, 153, 153, 0.0000)"
-        },
-        "light-fill-deg90-stop0": {
-          "$type": "color",
-          "$value": "{base.transparent-white}"
-        },
-        "light-fill-deg90-stop100": {
-          "$type": "color",
-          "$value": "{base.transparent-white}"
-        }
-      },
-      "border-right": {
-        "$type": "color",
-        "$value": "{gray-dark-mode.700}"
       }
     },
     "chart": {
@@ -12604,7 +12604,7 @@ _alias.dark.tokens.json
     }
   }
 }
-Typography.Manrope.tokens.json
+Typography.Default.tokens.json
 {
   "Weights": {
     "Thin": {
@@ -12750,7 +12750,7 @@ Typography.Manrope.tokens.json
     "Label-1": {
       "fontSize": {
         "$type": "number",
-        "$value": 17
+        "$value": 16
       },
       "lineHeight": {
         "$type": "number",
@@ -12764,7 +12764,7 @@ Typography.Manrope.tokens.json
     "Label-2": {
       "fontSize": {
         "$type": "number",
-        "$value": 15
+        "$value": 14
       },
       "lineHeight": {
         "$type": "number",
@@ -12778,7 +12778,7 @@ Typography.Manrope.tokens.json
     "Label-3": {
       "fontSize": {
         "$type": "number",
-        "$value": 13
+        "$value": 12
       },
       "lineHeight": {
         "$type": "number",
@@ -12792,7 +12792,7 @@ Typography.Manrope.tokens.json
     "Label-4": {
       "fontSize": {
         "$type": "number",
-        "$value": 12
+        "$value": 11
       },
       "lineHeight": {
         "$type": "number",
@@ -12806,7 +12806,308 @@ Typography.Manrope.tokens.json
     "Label-5": {
       "fontSize": {
         "$type": "number",
+        "$value": 10
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 14
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.10000000149011612
+      }
+    }
+  },
+  "Body": {
+    "Body-1": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 16
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 24
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": 0
+      }
+    },
+    "Body-2": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 14
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 20
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": 0
+      }
+    },
+    "Body-3": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 12
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 18
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": 0
+      }
+    }
+  },
+  "Tiny": {
+    "fontSize": {
+      "$type": "number",
+      "$value": 10
+    },
+    "lineHeight": {
+      "$type": "number",
+      "$value": 12
+    },
+    "letterSpacing": {
+      "$type": "number",
+      "$value": 0
+    }
+  },
+  "Tiny Extended": {
+    "fontSize": {
+      "$type": "number",
+      "$value": 10
+    },
+    "lineHeight": {
+      "$type": "number",
+      "$value": 12
+    },
+    "letterSpacing": {
+      "$type": "number",
+      "$value": 1
+    }
+  },
+  "Micro": {
+    "fontSize": {
+      "$type": "number",
+      "$value": 9
+    },
+    "lineHeight": {
+      "$type": "number",
+      "$value": 10
+    },
+    "letterSpacing": {
+      "$type": "number",
+      "$value": 0
+    }
+  }
+}
+Typography.For Website.tokens.json
+{
+  "Weights": {
+    "Thin": {
+      "$type": "number",
+      "$value": 100
+    },
+    "ExtraLight": {
+      "$type": "number",
+      "$value": 200
+    },
+    "Light": {
+      "$type": "number",
+      "$value": 300
+    },
+    "Regular": {
+      "$type": "number",
+      "$value": 400
+    },
+    "Medium": {
+      "$type": "number",
+      "$value": 500
+    },
+    "SemiBold": {
+      "$type": "number",
+      "$value": 600
+    },
+    "Bold": {
+      "$type": "number",
+      "$value": 700
+    },
+    "ExtraBold": {
+      "$type": "number",
+      "$value": 800
+    },
+    "Black": {
+      "$type": "number",
+      "$value": 900
+    }
+  },
+  "Title": {
+    "Title-1": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 64
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 68
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.699999988079071
+      }
+    },
+    "Title-2": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 40
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 46
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.550000011920929
+      }
+    },
+    "Title-3": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 32
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 36
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.6000000238418579
+      }
+    }
+  },
+  "Heading": {
+    "H1": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 28
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 31
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.5
+      }
+    },
+    "H2": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 26
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 30
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.25999999046325684
+      }
+    },
+    "H3": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 24
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 28
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.23999999463558197
+      }
+    },
+    "H4": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 20
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 24
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.20000000298023224
+      }
+    }
+  },
+  "Label": {
+    "Label-1": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 16
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 20
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.15000000596046448
+      }
+    },
+    "Label-2": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 14
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 18
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.12999999523162842
+      }
+    },
+    "Label-3": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 12
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 16
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.14000000059604645
+      }
+    },
+    "Label-4": {
+      "fontSize": {
+        "$type": "number",
         "$value": 11
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 14
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.11999999731779099
+      }
+    },
+    "Label-5": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 10
       },
       "lineHeight": {
         "$type": "number",
@@ -13584,9 +13885,55 @@ Radius.Default.tokens.json
       "$type": "number",
       "$value": 12
     }
+  },
+  "new-radius": {
+    "radius-none": {
+      "$type": "number",
+      "$value": 0
+    },
+    "radius-xxs": {
+      "$type": "number",
+      "$value": 2
+    },
+    "radius-xs": {
+      "$type": "number",
+      "$value": 4
+    },
+    "radius-sm": {
+      "$type": "number",
+      "$value": 6
+    },
+    "radius-md": {
+      "$type": "number",
+      "$value": 8
+    },
+    "radius-lg": {
+      "$type": "number",
+      "$value": 10
+    },
+    "radius-xl": {
+      "$type": "number",
+      "$value": 12
+    },
+    "radius-2xl": {
+      "$type": "number",
+      "$value": 16
+    },
+    "radius-3xl": {
+      "$type": "number",
+      "$value": 20
+    },
+    "radius-4xl": {
+      "$type": "number",
+      "$value": 24
+    },
+    "radius-full": {
+      "$type": "number",
+      "$value": 9999
+    }
   }
 }
-Spacing.mode.tokens.json
+Spacing.Default.tokens.json
 {
   "spacing": {
     "spacing-none": {
@@ -13666,6 +14013,131 @@ Spacing.mode.tokens.json
     "container-padding-desktop": {
       "$type": "number",
       "$value": 32
+    }
+  },
+  "frames": {
+    "w-320": {
+      "$type": "number",
+      "$value": 320
+    },
+    "w-360": {
+      "$type": "number",
+      "$value": 360
+    },
+    "w-390": {
+      "$type": "number",
+      "$value": 390
+    },
+    "w428": {
+      "$type": "number",
+      "$value": 428
+    },
+    "w768": {
+      "$type": "number",
+      "$value": 768
+    },
+    "w1080": {
+      "$type": "number",
+      "$value": 1080
+    },
+    "w1280": {
+      "$type": "number",
+      "$value": 1280
+    },
+    "w1440": {
+      "$type": "number",
+      "$value": 1440
+    },
+    "w1680": {
+      "$type": "number",
+      "$value": 1680
+    },
+    "w1920": {
+      "$type": "number",
+      "$value": 1920
+    }
+  }
+}
+Spacing.Scale 80%.tokens.json
+{
+  "spacing": {
+    "spacing-none": {
+      "$type": "number",
+      "$value": 0
+    },
+    "spacing-xxs": {
+      "$type": "number",
+      "$value": 1.600000023841858
+    },
+    "spacing-xs": {
+      "$type": "number",
+      "$value": 3.200000047683716
+    },
+    "spacing-sm": {
+      "$type": "number",
+      "$value": 4.800000190734863
+    },
+    "spacing-md": {
+      "$type": "number",
+      "$value": 6.400000095367432
+    },
+    "spacing-lg": {
+      "$type": "number",
+      "$value": 9.600000381469727
+    },
+    "spacing-xl": {
+      "$type": "number",
+      "$value": 12.800000190734863
+    },
+    "spacing-2xl": {
+      "$type": "number",
+      "$value": 16
+    },
+    "spacing-3xl": {
+      "$type": "number",
+      "$value": 19.200000762939453
+    },
+    "spacing-4xl": {
+      "$type": "number",
+      "$value": 25.600000381469727
+    },
+    "spacing-5xl": {
+      "$type": "number",
+      "$value": 32
+    },
+    "spacing-6xl": {
+      "$type": "number",
+      "$value": 38.400001525878906
+    },
+    "spacing-7xl": {
+      "$type": "number",
+      "$value": 51.20000076293945
+    },
+    "spacing-8xl": {
+      "$type": "number",
+      "$value": 64
+    },
+    "spacing-9xl": {
+      "$type": "number",
+      "$value": 76.80000305175781
+    },
+    "spacing-10xl": {
+      "$type": "number",
+      "$value": 76.80000305175781
+    },
+    "spacing-11xl": {
+      "$type": "number",
+      "$value": 128
+    }
+  },
+  "container": {
+    "container-padding-mobile": {
+      "$type": "number",
+      "$value": 12.800000190734863
+    },
+    "container-padding-desktop": {
+      "$type": "number",
+      "$value": 25.600000381469727
     }
   },
   "frames": {
