@@ -7513,6 +7513,48 @@ _alias.day-mode.tokens.json
           "$value": "{blue.600}"
         }
       },
+      "tags-on-jobs": {
+        "green": {
+          "bg-green": {
+            "$type": "color",
+            "$value": "{success.50}"
+          },
+          "text-green": {
+            "$type": "color",
+            "$value": "{success.700}"
+          }
+        },
+        "red": {
+          "bg-red": {
+            "$type": "color",
+            "$value": "{error.50}"
+          },
+          "text-red": {
+            "$type": "color",
+            "$value": "{error.700}"
+          }
+        },
+        "orange": {
+          "bg-orange": {
+            "$type": "color",
+            "$value": "{warning.50}"
+          },
+          "text-orange": {
+            "$type": "color",
+            "$value": "{warning.700}"
+          }
+        },
+        "blue": {
+          "bg-blue": {
+            "$type": "color",
+            "$value": "{blue.50}"
+          },
+          "text-blue": {
+            "$type": "color",
+            "$value": "{blue.700}"
+          }
+        }
+      },
       "mockups": {
         "screen-mockup-border": {
           "$type": "color",
@@ -7853,6 +7895,40 @@ _alias.day-mode.tokens.json
           "$value": "{success.700}"
         }
       },
+      "blue": {
+        "utility-blue-50": {
+          "$type": "color",
+          "$value": "{blue.50}"
+        },
+        "utility-blue-100": {
+          "$type": "color",
+          "$value": "{blue.100}"
+        },
+        "utility-blue-200": {
+          "$type": "color",
+          "$value": "{blue.200}"
+        },
+        "utility-blue-300": {
+          "$type": "color",
+          "$value": "{blue.300}"
+        },
+        "utility-blue-400": {
+          "$type": "color",
+          "$value": "{blue.400}"
+        },
+        "utility-blue-500": {
+          "$type": "color",
+          "$value": "{blue.500}"
+        },
+        "utility-blue-600": {
+          "$type": "color",
+          "$value": "{blue.600}"
+        },
+        "utility-blue-700": {
+          "$type": "color",
+          "$value": "{blue.700}"
+        }
+      },
       "gray-blue": {
         "utility-gray-blue-50": {
           "$type": "color",
@@ -7953,40 +8029,6 @@ _alias.day-mode.tokens.json
         "utility-blue-light-700": {
           "$type": "color",
           "$value": "{blue-light.700}"
-        }
-      },
-      "blue": {
-        "utility-blue-50": {
-          "$type": "color",
-          "$value": "{blue.50}"
-        },
-        "utility-blue-100": {
-          "$type": "color",
-          "$value": "{blue.100}"
-        },
-        "utility-blue-200": {
-          "$type": "color",
-          "$value": "{blue.200}"
-        },
-        "utility-blue-300": {
-          "$type": "color",
-          "$value": "{blue.300}"
-        },
-        "utility-blue-400": {
-          "$type": "color",
-          "$value": "{blue.400}"
-        },
-        "utility-blue-500": {
-          "$type": "color",
-          "$value": "{blue.500}"
-        },
-        "utility-blue-600": {
-          "$type": "color",
-          "$value": "{blue.600}"
-        },
-        "utility-blue-700": {
-          "$type": "color",
-          "$value": "{blue.700}"
         }
       },
       "ultramarine-blue": {
@@ -9454,6 +9496,48 @@ _alias.night-mode.tokens.json
           "$value": "{blue.600}"
         }
       },
+      "tags-on-jobs": {
+        "green": {
+          "bg-green": {
+            "$type": "color",
+            "$value": "{alpha.white.05}"
+          },
+          "text-green": {
+            "$type": "color",
+            "$value": "{alpha.white.80}"
+          }
+        },
+        "red": {
+          "bg-red": {
+            "$type": "color",
+            "$value": "{alpha.white.05}"
+          },
+          "text-red": {
+            "$type": "color",
+            "$value": "{alpha.white.80}"
+          }
+        },
+        "orange": {
+          "bg-orange": {
+            "$type": "color",
+            "$value": "{alpha.white.05}"
+          },
+          "text-orange": {
+            "$type": "color",
+            "$value": "{alpha.white.80}"
+          }
+        },
+        "blue": {
+          "bg-blue": {
+            "$type": "color",
+            "$value": "{alpha.white.05}"
+          },
+          "text-blue": {
+            "$type": "color",
+            "$value": "{alpha.white.80}"
+          }
+        }
+      },
       "mockups": {
         "screen-mockup-border": {
           "$type": "color",
@@ -9794,6 +9878,40 @@ _alias.night-mode.tokens.json
           "$value": "{success.300}"
         }
       },
+      "blue": {
+        "utility-blue-50": {
+          "$type": "color",
+          "$value": "{blue.950}"
+        },
+        "utility-blue-100": {
+          "$type": "color",
+          "$value": "{blue.900}"
+        },
+        "utility-blue-200": {
+          "$type": "color",
+          "$value": "{blue.800}"
+        },
+        "utility-blue-300": {
+          "$type": "color",
+          "$value": "{blue.700}"
+        },
+        "utility-blue-400": {
+          "$type": "color",
+          "$value": "{blue.600}"
+        },
+        "utility-blue-500": {
+          "$type": "color",
+          "$value": "{blue.500}"
+        },
+        "utility-blue-600": {
+          "$type": "color",
+          "$value": "{blue.400}"
+        },
+        "utility-blue-700": {
+          "$type": "color",
+          "$value": "{blue.300}"
+        }
+      },
       "gray-blue": {
         "utility-gray-blue-50": {
           "$type": "color",
@@ -9894,40 +10012,6 @@ _alias.night-mode.tokens.json
         "utility-blue-light-700": {
           "$type": "color",
           "$value": "{blue-light.300}"
-        }
-      },
-      "blue": {
-        "utility-blue-50": {
-          "$type": "color",
-          "$value": "{blue.950}"
-        },
-        "utility-blue-100": {
-          "$type": "color",
-          "$value": "{blue.900}"
-        },
-        "utility-blue-200": {
-          "$type": "color",
-          "$value": "{blue.800}"
-        },
-        "utility-blue-300": {
-          "$type": "color",
-          "$value": "{blue.700}"
-        },
-        "utility-blue-400": {
-          "$type": "color",
-          "$value": "{blue.600}"
-        },
-        "utility-blue-500": {
-          "$type": "color",
-          "$value": "{blue.500}"
-        },
-        "utility-blue-600": {
-          "$type": "color",
-          "$value": "{blue.400}"
-        },
-        "utility-blue-700": {
-          "$type": "color",
-          "$value": "{blue.300}"
         }
       },
       "ultramarine-blue": {
@@ -11395,6 +11479,48 @@ _alias.dark.tokens.json
           "$value": "{blue.600}"
         }
       },
+      "tags-on-jobs": {
+        "green": {
+          "bg-green": {
+            "$type": "color",
+            "$value": "{alpha.white.05}"
+          },
+          "text-green": {
+            "$type": "color",
+            "$value": "{alpha.white.80}"
+          }
+        },
+        "red": {
+          "bg-red": {
+            "$type": "color",
+            "$value": "{alpha.white.05}"
+          },
+          "text-red": {
+            "$type": "color",
+            "$value": "{alpha.white.80}"
+          }
+        },
+        "orange": {
+          "bg-orange": {
+            "$type": "color",
+            "$value": "{alpha.white.05}"
+          },
+          "text-orange": {
+            "$type": "color",
+            "$value": "{alpha.white.80}"
+          }
+        },
+        "blue": {
+          "bg-blue": {
+            "$type": "color",
+            "$value": "{alpha.white.05}"
+          },
+          "text-blue": {
+            "$type": "color",
+            "$value": "{alpha.white.80}"
+          }
+        }
+      },
       "mockups": {
         "screen-mockup-border": {
           "$type": "color",
@@ -11735,6 +11861,40 @@ _alias.dark.tokens.json
           "$value": "{success.300}"
         }
       },
+      "blue": {
+        "utility-blue-50": {
+          "$type": "color",
+          "$value": "{blue.950}"
+        },
+        "utility-blue-100": {
+          "$type": "color",
+          "$value": "{blue.900}"
+        },
+        "utility-blue-200": {
+          "$type": "color",
+          "$value": "{blue.800}"
+        },
+        "utility-blue-300": {
+          "$type": "color",
+          "$value": "{blue.700}"
+        },
+        "utility-blue-400": {
+          "$type": "color",
+          "$value": "{blue.600}"
+        },
+        "utility-blue-500": {
+          "$type": "color",
+          "$value": "{blue.500}"
+        },
+        "utility-blue-600": {
+          "$type": "color",
+          "$value": "{blue.400}"
+        },
+        "utility-blue-700": {
+          "$type": "color",
+          "$value": "{blue.300}"
+        }
+      },
       "gray-blue": {
         "utility-gray-blue-50": {
           "$type": "color",
@@ -11835,40 +11995,6 @@ _alias.dark.tokens.json
         "utility-blue-light-700": {
           "$type": "color",
           "$value": "{blue-light.300}"
-        }
-      },
-      "blue": {
-        "utility-blue-50": {
-          "$type": "color",
-          "$value": "{blue.950}"
-        },
-        "utility-blue-100": {
-          "$type": "color",
-          "$value": "{blue.900}"
-        },
-        "utility-blue-200": {
-          "$type": "color",
-          "$value": "{blue.800}"
-        },
-        "utility-blue-300": {
-          "$type": "color",
-          "$value": "{blue.700}"
-        },
-        "utility-blue-400": {
-          "$type": "color",
-          "$value": "{blue.600}"
-        },
-        "utility-blue-500": {
-          "$type": "color",
-          "$value": "{blue.500}"
-        },
-        "utility-blue-600": {
-          "$type": "color",
-          "$value": "{blue.400}"
-        },
-        "utility-blue-700": {
-          "$type": "color",
-          "$value": "{blue.300}"
         }
       },
       "ultramarine-blue": {
