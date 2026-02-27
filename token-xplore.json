@@ -1533,51 +1533,51 @@ _primitives(Brand).Smatoz-Blue.tokens.json
   "gray-neutral": {
     "25": {
       "$type": "color",
-      "$value": "#fcfcfd"
+      "$value": "#fcfcfc"
     },
     "50": {
       "$type": "color",
-      "$value": "#f9fafb"
+      "$value": "#f7f7f7"
     },
     "100": {
       "$type": "color",
-      "$value": "#f3f4f6"
+      "$value": "#f2f2f2"
     },
     "200": {
       "$type": "color",
-      "$value": "#e5e7eb"
+      "$value": "#e6e6e6"
     },
     "300": {
       "$type": "color",
-      "$value": "#d2d6db"
+      "$value": "#d1d1d1"
     },
     "400": {
       "$type": "color",
-      "$value": "#9da4ae"
+      "$value": "#a3a3a3"
     },
     "500": {
       "$type": "color",
-      "$value": "#6c737f"
+      "$value": "#737373"
     },
     "600": {
       "$type": "color",
-      "$value": "#4d5761"
+      "$value": "#4f4f4f"
     },
     "700": {
       "$type": "color",
-      "$value": "#384250"
+      "$value": "#333333"
     },
     "800": {
       "$type": "color",
-      "$value": "#1f2a37"
+      "$value": "#242424"
     },
     "900": {
       "$type": "color",
-      "$value": "#111927"
+      "$value": "#1d1d1f"
     },
     "950": {
       "$type": "color",
-      "$value": "#0d121c"
+      "$value": "#0f0f10"
     }
   },
   "gray-iron": {
@@ -3826,51 +3826,51 @@ _primitives(Brand).uhq-old.tokens.json
   "gray-neutral": {
     "25": {
       "$type": "color",
-      "$value": "#fcfcfd"
+      "$value": "#fcfcfc"
     },
     "50": {
       "$type": "color",
-      "$value": "#f9fafb"
+      "$value": "#f7f7f7"
     },
     "100": {
       "$type": "color",
-      "$value": "#f3f4f6"
+      "$value": "#f2f2f2"
     },
     "200": {
       "$type": "color",
-      "$value": "#e5e7eb"
+      "$value": "#e6e6e6"
     },
     "300": {
       "$type": "color",
-      "$value": "#d2d6db"
+      "$value": "#d1d1d1"
     },
     "400": {
       "$type": "color",
-      "$value": "#9da4ae"
+      "$value": "#a3a3a3"
     },
     "500": {
       "$type": "color",
-      "$value": "#6c737f"
+      "$value": "#737373"
     },
     "600": {
       "$type": "color",
-      "$value": "#4d5761"
+      "$value": "#4f4f4f"
     },
     "700": {
       "$type": "color",
-      "$value": "#384250"
+      "$value": "#333333"
     },
     "800": {
       "$type": "color",
-      "$value": "#1f2a37"
+      "$value": "#242424"
     },
     "900": {
       "$type": "color",
-      "$value": "#111927"
+      "$value": "#1d1d1f"
     },
     "950": {
       "$type": "color",
-      "$value": "#0d121c"
+      "$value": "#0f0f10"
     }
   },
   "gray-iron": {
@@ -6119,51 +6119,51 @@ _primitives(Brand).HRIS.tokens.json
   "gray-neutral": {
     "25": {
       "$type": "color",
-      "$value": "#fcfcfd"
+      "$value": "#fcfcfc"
     },
     "50": {
       "$type": "color",
-      "$value": "#f9fafb"
+      "$value": "#f7f7f7"
     },
     "100": {
       "$type": "color",
-      "$value": "#f3f4f6"
+      "$value": "#f2f2f2"
     },
     "200": {
       "$type": "color",
-      "$value": "#e5e7eb"
+      "$value": "#e6e6e6"
     },
     "300": {
       "$type": "color",
-      "$value": "#d2d6db"
+      "$value": "#d1d1d1"
     },
     "400": {
       "$type": "color",
-      "$value": "#9da4ae"
+      "$value": "#a3a3a3"
     },
     "500": {
       "$type": "color",
-      "$value": "#6c737f"
+      "$value": "#737373"
     },
     "600": {
       "$type": "color",
-      "$value": "#4d5761"
+      "$value": "#4f4f4f"
     },
     "700": {
       "$type": "color",
-      "$value": "#384250"
+      "$value": "#333333"
     },
     "800": {
       "$type": "color",
-      "$value": "#1f2a37"
+      "$value": "#242424"
     },
     "900": {
       "$type": "color",
-      "$value": "#111927"
+      "$value": "#1d1d1f"
     },
     "950": {
       "$type": "color",
-      "$value": "#0d121c"
+      "$value": "#0f0f10"
     }
   },
   "gray-iron": {
@@ -8412,51 +8412,51 @@ _primitives(Brand).Smatoz-Red.tokens.json
   "gray-neutral": {
     "25": {
       "$type": "color",
-      "$value": "#fcfcfd"
+      "$value": "#fcfcfc"
     },
     "50": {
       "$type": "color",
-      "$value": "#f9fafb"
+      "$value": "#f7f7f7"
     },
     "100": {
       "$type": "color",
-      "$value": "#f3f4f6"
+      "$value": "#f2f2f2"
     },
     "200": {
       "$type": "color",
-      "$value": "#e5e7eb"
+      "$value": "#e6e6e6"
     },
     "300": {
       "$type": "color",
-      "$value": "#d2d6db"
+      "$value": "#d1d1d1"
     },
     "400": {
       "$type": "color",
-      "$value": "#9da4ae"
+      "$value": "#a3a3a3"
     },
     "500": {
       "$type": "color",
-      "$value": "#6c737f"
+      "$value": "#737373"
     },
     "600": {
       "$type": "color",
-      "$value": "#4d5761"
+      "$value": "#4f4f4f"
     },
     "700": {
       "$type": "color",
-      "$value": "#384250"
+      "$value": "#333333"
     },
     "800": {
       "$type": "color",
-      "$value": "#1f2a37"
+      "$value": "#242424"
     },
     "900": {
       "$type": "color",
-      "$value": "#111927"
+      "$value": "#1d1d1f"
     },
     "950": {
       "$type": "color",
-      "$value": "#0d121c"
+      "$value": "#0f0f10"
     }
   },
   "gray-iron": {
@@ -10705,51 +10705,51 @@ _primitives(Brand).Smatoz-Yellow.tokens.json
   "gray-neutral": {
     "25": {
       "$type": "color",
-      "$value": "#fcfcfd"
+      "$value": "#fcfcfc"
     },
     "50": {
       "$type": "color",
-      "$value": "#f9fafb"
+      "$value": "#f7f7f7"
     },
     "100": {
       "$type": "color",
-      "$value": "#f3f4f6"
+      "$value": "#f2f2f2"
     },
     "200": {
       "$type": "color",
-      "$value": "#e5e7eb"
+      "$value": "#e6e6e6"
     },
     "300": {
       "$type": "color",
-      "$value": "#d2d6db"
+      "$value": "#d1d1d1"
     },
     "400": {
       "$type": "color",
-      "$value": "#9da4ae"
+      "$value": "#a3a3a3"
     },
     "500": {
       "$type": "color",
-      "$value": "#6c737f"
+      "$value": "#737373"
     },
     "600": {
       "$type": "color",
-      "$value": "#4d5761"
+      "$value": "#4f4f4f"
     },
     "700": {
       "$type": "color",
-      "$value": "#384250"
+      "$value": "#333333"
     },
     "800": {
       "$type": "color",
-      "$value": "#1f2a37"
+      "$value": "#242424"
     },
     "900": {
       "$type": "color",
-      "$value": "#111927"
+      "$value": "#1d1d1f"
     },
     "950": {
       "$type": "color",
-      "$value": "#0d121c"
+      "$value": "#0f0f10"
     }
   },
   "gray-iron": {
@@ -12998,51 +12998,51 @@ _primitives(Brand).Smatoz-Green.tokens.json
   "gray-neutral": {
     "25": {
       "$type": "color",
-      "$value": "#fcfcfd"
+      "$value": "#fcfcfc"
     },
     "50": {
       "$type": "color",
-      "$value": "#f9fafb"
+      "$value": "#f7f7f7"
     },
     "100": {
       "$type": "color",
-      "$value": "#f3f4f6"
+      "$value": "#f2f2f2"
     },
     "200": {
       "$type": "color",
-      "$value": "#e5e7eb"
+      "$value": "#e6e6e6"
     },
     "300": {
       "$type": "color",
-      "$value": "#d2d6db"
+      "$value": "#d1d1d1"
     },
     "400": {
       "$type": "color",
-      "$value": "#9da4ae"
+      "$value": "#a3a3a3"
     },
     "500": {
       "$type": "color",
-      "$value": "#6c737f"
+      "$value": "#737373"
     },
     "600": {
       "$type": "color",
-      "$value": "#4d5761"
+      "$value": "#4f4f4f"
     },
     "700": {
       "$type": "color",
-      "$value": "#384250"
+      "$value": "#333333"
     },
     "800": {
       "$type": "color",
-      "$value": "#1f2a37"
+      "$value": "#242424"
     },
     "900": {
       "$type": "color",
-      "$value": "#111927"
+      "$value": "#1d1d1f"
     },
     "950": {
       "$type": "color",
-      "$value": "#0d121c"
+      "$value": "#0f0f10"
     }
   },
   "gray-iron": {
@@ -13762,7 +13762,7 @@ _alias.day-mode.tokens.json
     "text": {
       "text-primary": {
         "$type": "color",
-        "$value": "{gray-light-mode.900}"
+        "$value": "{gray-neutral.900}"
       },
       "text-primary-on-brand": {
         "$type": "color",
@@ -13770,15 +13770,15 @@ _alias.day-mode.tokens.json
       },
       "text-secondary": {
         "$type": "color",
-        "$value": "{gray-light-mode.700}"
+        "$value": "{gray-neutral.700}"
       },
       "text-secondary-inverse": {
         "$type": "color",
-        "$value": "{gray-light-mode.700}"
+        "$value": "{gray-neutral.700}"
       },
       "text-secondary-hover": {
         "$type": "color",
-        "$value": "{gray-light-mode.800}"
+        "$value": "{gray-neutral.800}"
       },
       "text-secondary-on-brand": {
         "$type": "color",
@@ -13786,11 +13786,11 @@ _alias.day-mode.tokens.json
       },
       "text-tertiary": {
         "$type": "color",
-        "$value": "{gray-light-mode.600}"
+        "$value": "{gray-neutral.600}"
       },
       "text-tertiary-hover": {
         "$type": "color",
-        "$value": "{gray-light-mode.700}"
+        "$value": "{gray-neutral.700}"
       },
       "text-tertiary-on-brand": {
         "$type": "color",
@@ -13798,7 +13798,7 @@ _alias.day-mode.tokens.json
       },
       "text-quaternary": {
         "$type": "color",
-        "$value": "{gray-light-mode.500}"
+        "$value": "{gray-neutral.500}"
       },
       "text-quaternary-on-brand": {
         "$type": "color",
