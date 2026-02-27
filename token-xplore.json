@@ -27,7 +27,7 @@ _primitives(Brand).Smatoz-Blue.tokens.json
     },
     "transparent-brand": {
       "$type": "color",
-      "$value": "rgba(48, 62, 247, 0.1000)"
+      "$value": "rgba(0, 15, 240, 0.1000)"
     }
   },
   "brand-light": {
@@ -6906,7 +6906,7 @@ _primitives(Brand).Smatoz-Red.tokens.json
     },
     "transparent-brand": {
       "$type": "color",
-      "$value": "rgba(48, 62, 247, 0.1000)"
+      "$value": "rgba(250, 8, 5, 0.1000)"
     }
   },
   "brand-light": {
@@ -9199,7 +9199,7 @@ _primitives(Brand).Smatoz-Yellow.tokens.json
     },
     "transparent-brand": {
       "$type": "color",
-      "$value": "rgba(48, 62, 247, 0.1000)"
+      "$value": "rgba(252, 210, 0, 0.1000)"
     }
   },
   "brand-light": {
@@ -11492,7 +11492,7 @@ _primitives(Brand).Smatoz-Green.tokens.json
     },
     "transparent-brand": {
       "$type": "color",
-      "$value": "rgba(48, 62, 247, 0.1000)"
+      "$value": "rgba(51, 182, 91, 0.1000)"
     }
   },
   "brand-light": {
@@ -15582,6 +15582,16 @@ _alias.day-mode.tokens.json
       }
     },
     "cards": {
+      "smatoz-border": {
+        "deg0stop0": {
+          "$type": "color",
+          "$value": "{brand-light.500}"
+        },
+        "deg0stop80": {
+          "$type": "color",
+          "$value": "{brand-light.700}"
+        }
+      },
       "border": {
         "deg0stop0": {
           "$type": "color",
@@ -15629,16 +15639,6 @@ _alias.day-mode.tokens.json
         }
       }
     },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
-      }
-    },
     "sidebar": {
       "bg-sidebar": {
         "radial-deg0-stop0": {
@@ -15671,6 +15671,16 @@ _alias.day-mode.tokens.json
       "border-right": {
         "$type": "color",
         "$value": "{gray-light-mode.200}"
+      }
+    },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
       }
     },
     "chart": {
@@ -17585,6 +17595,16 @@ _alias.night-mode.tokens.json
       }
     },
     "cards": {
+      "smatoz-border": {
+        "deg0stop0": {
+          "$type": "color",
+          "$value": "{brand-light.500}"
+        },
+        "deg0stop80": {
+          "$type": "color",
+          "$value": "{brand-light.400}"
+        }
+      },
       "border": {
         "deg0stop0": {
           "$type": "color",
@@ -17632,16 +17652,6 @@ _alias.night-mode.tokens.json
         }
       }
     },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
-      }
-    },
     "sidebar": {
       "bg-sidebar": {
         "radial-deg0-stop0": {
@@ -17674,6 +17684,16 @@ _alias.night-mode.tokens.json
       "border-right": {
         "$type": "color",
         "$value": "{gray-dark-mode.700}"
+      }
+    },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
       }
     },
     "chart": {
@@ -19588,6 +19608,16 @@ _alias.dark.tokens.json
       }
     },
     "cards": {
+      "smatoz-border": {
+        "deg0stop0": {
+          "$type": "color",
+          "$value": "{brand-light.500}"
+        },
+        "deg0stop80": {
+          "$type": "color",
+          "$value": "{brand-light.400}"
+        }
+      },
       "border": {
         "deg0stop0": {
           "$type": "color",
@@ -19635,16 +19665,6 @@ _alias.dark.tokens.json
         }
       }
     },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
-      }
-    },
     "sidebar": {
       "bg-sidebar": {
         "radial-deg0-stop0": {
@@ -19677,6 +19697,16 @@ _alias.dark.tokens.json
       "border-right": {
         "$type": "color",
         "$value": "{gray-dark-mode.700}"
+      }
+    },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
       }
     },
     "chart": {
