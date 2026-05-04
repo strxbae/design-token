@@ -15232,7 +15232,7 @@ _alias.day-mode.tokens.json
       },
       "bg-primary-hover": {
         "$type": "color",
-        "$value": "{gray-light-mode.50}"
+        "$value": "{gray-light-mode.100}"
       },
       "bg-primary-solid": {
         "$type": "color",
@@ -16993,16 +16993,6 @@ _alias.day-mode.tokens.json
         }
       }
     },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
-      }
-    },
     "sidebar": {
       "bg-sidebar": {
         "radial-deg0-stop0": {
@@ -17035,6 +17025,16 @@ _alias.day-mode.tokens.json
       "border-right": {
         "$type": "color",
         "$value": "{gray-light-mode.200}"
+      }
+    },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
       }
     },
     "chart": {
@@ -17137,7 +17137,7 @@ _alias.[archive]night-mode.tokens.json
       },
       "text-secondary": {
         "$type": "color",
-        "$value": "{gray-dark-mode.300}"
+        "$value": "{gray-dark-mode.100}"
       },
       "text-secondary-inverse": {
         "$type": "color",
@@ -17297,7 +17297,7 @@ _alias.[archive]night-mode.tokens.json
       },
       "fg-secondary": {
         "$type": "color",
-        "$value": "{gray-dark-mode.300}"
+        "$value": "{gray-dark-mode.100}"
       },
       "fg-secondary-hover": {
         "$type": "color",
@@ -19160,16 +19160,6 @@ _alias.[archive]night-mode.tokens.json
         }
       }
     },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
-      }
-    },
     "sidebar": {
       "bg-sidebar": {
         "radial-deg0-stop0": {
@@ -19202,6 +19192,16 @@ _alias.[archive]night-mode.tokens.json
       "border-right": {
         "$type": "color",
         "$value": "{gray-dark-mode.700}"
+      }
+    },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
       }
     },
     "chart": {
@@ -19304,7 +19304,7 @@ _alias.night-mode.tokens.json
       },
       "text-secondary": {
         "$type": "color",
-        "$value": "{gray-dark-mode.300}"
+        "$value": "{gray-dark-mode.100}"
       },
       "text-secondary-inverse": {
         "$type": "color",
@@ -19464,7 +19464,7 @@ _alias.night-mode.tokens.json
       },
       "fg-secondary": {
         "$type": "color",
-        "$value": "{gray-dark-mode.300}"
+        "$value": "{gray-dark-mode.100}"
       },
       "fg-secondary-hover": {
         "$type": "color",
@@ -21327,16 +21327,6 @@ _alias.night-mode.tokens.json
         }
       }
     },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
-      }
-    },
     "sidebar": {
       "bg-sidebar": {
         "radial-deg0-stop0": {
@@ -21369,6 +21359,16 @@ _alias.night-mode.tokens.json
       "border-right": {
         "$type": "color",
         "$value": "{gray-dark-mode.700}"
+      }
+    },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
       }
     },
     "chart": {
