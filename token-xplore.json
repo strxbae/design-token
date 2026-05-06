@@ -2014,6 +2014,52 @@ _primitives(Brand).Smatoz-Blue.tokens.json
         "$type": "color",
         "$value": "rgba(13, 18, 28, 0.0000)"
       }
+    },
+    "brand": {
+      "10": {
+        "$type": "color",
+        "$value": "rgba(0, 15, 240, 0.1000)"
+      },
+      "20": {
+        "$type": "color",
+        "$value": "rgba(0, 15, 240, 0.2000)"
+      },
+      "30": {
+        "$type": "color",
+        "$value": "rgba(0, 15, 240, 0.3000)"
+      },
+      "40": {
+        "$type": "color",
+        "$value": "rgba(0, 15, 240, 0.4000)"
+      },
+      "50": {
+        "$type": "color",
+        "$value": "rgba(0, 15, 240, 0.5000)"
+      },
+      "60": {
+        "$type": "color",
+        "$value": "rgba(0, 15, 240, 0.6000)"
+      },
+      "70": {
+        "$type": "color",
+        "$value": "rgba(0, 15, 240, 0.7000)"
+      },
+      "80": {
+        "$type": "color",
+        "$value": "rgba(0, 15, 240, 0.8000)"
+      },
+      "90": {
+        "$type": "color",
+        "$value": "rgba(0, 15, 240, 0.9000)"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#000ff0"
+      },
+      "05": {
+        "$type": "color",
+        "$value": "rgba(0, 15, 240, 0.0500)"
+      }
     }
   },
   "gradient": {
@@ -4506,6 +4552,52 @@ _primitives(Brand).uhq-old.tokens.json
       "950": {
         "$type": "color",
         "$value": "rgba(13, 18, 28, 0.0000)"
+      }
+    },
+    "brand": {
+      "10": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.1000)"
+      },
+      "20": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.2000)"
+      },
+      "30": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.3000)"
+      },
+      "40": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.4000)"
+      },
+      "50": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.5000)"
+      },
+      "60": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.6000)"
+      },
+      "70": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.7000)"
+      },
+      "80": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.8000)"
+      },
+      "90": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.9000)"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "05": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.0500)"
       }
     }
   },
@@ -7000,6 +7092,52 @@ _primitives(Brand).HRIS.tokens.json
         "$type": "color",
         "$value": "rgba(13, 18, 28, 0.0000)"
       }
+    },
+    "brand": {
+      "10": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.1000)"
+      },
+      "20": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.2000)"
+      },
+      "30": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.3000)"
+      },
+      "40": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.4000)"
+      },
+      "50": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.5000)"
+      },
+      "60": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.6000)"
+      },
+      "70": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.7000)"
+      },
+      "80": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.8000)"
+      },
+      "90": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.9000)"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "05": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.0500)"
+      }
     }
   },
   "gradient": {
@@ -9492,6 +9630,52 @@ _primitives(Brand).Smatoz-Red.tokens.json
       "950": {
         "$type": "color",
         "$value": "rgba(13, 18, 28, 0.0000)"
+      }
+    },
+    "brand": {
+      "10": {
+        "$type": "color",
+        "$value": "rgba(250, 8, 5, 0.1000)"
+      },
+      "20": {
+        "$type": "color",
+        "$value": "rgba(250, 8, 5, 0.2000)"
+      },
+      "30": {
+        "$type": "color",
+        "$value": "rgba(250, 8, 5, 0.3000)"
+      },
+      "40": {
+        "$type": "color",
+        "$value": "rgba(250, 8, 5, 0.4000)"
+      },
+      "50": {
+        "$type": "color",
+        "$value": "rgba(250, 8, 5, 0.5000)"
+      },
+      "60": {
+        "$type": "color",
+        "$value": "rgba(250, 8, 5, 0.6000)"
+      },
+      "70": {
+        "$type": "color",
+        "$value": "rgba(250, 8, 5, 0.7000)"
+      },
+      "80": {
+        "$type": "color",
+        "$value": "rgba(250, 8, 5, 0.8000)"
+      },
+      "90": {
+        "$type": "color",
+        "$value": "rgba(250, 8, 5, 0.9000)"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#fa0805"
+      },
+      "05": {
+        "$type": "color",
+        "$value": "rgba(250, 8, 5, 0.0500)"
       }
     }
   },
@@ -11986,6 +12170,52 @@ _primitives(Brand).Smatoz-Yellow.tokens.json
         "$type": "color",
         "$value": "rgba(13, 18, 28, 0.0000)"
       }
+    },
+    "brand": {
+      "10": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.1000)"
+      },
+      "20": {
+        "$type": "color",
+        "$value": "rgba(252, 210, 0, 0.2000)"
+      },
+      "30": {
+        "$type": "color",
+        "$value": "rgba(252, 210, 0, 0.3000)"
+      },
+      "40": {
+        "$type": "color",
+        "$value": "rgba(252, 210, 0, 0.4000)"
+      },
+      "50": {
+        "$type": "color",
+        "$value": "rgba(252, 210, 0, 0.5000)"
+      },
+      "60": {
+        "$type": "color",
+        "$value": "rgba(252, 210, 0, 0.6000)"
+      },
+      "70": {
+        "$type": "color",
+        "$value": "rgba(252, 210, 0, 0.7000)"
+      },
+      "80": {
+        "$type": "color",
+        "$value": "rgba(252, 210, 0, 0.8000)"
+      },
+      "90": {
+        "$type": "color",
+        "$value": "rgba(252, 210, 0, 0.9000)"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#fcd200"
+      },
+      "05": {
+        "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.0500)"
+      }
     }
   },
   "gradient": {
@@ -14479,6 +14709,52 @@ _primitives(Brand).Smatoz-Green.tokens.json
         "$type": "color",
         "$value": "rgba(13, 18, 28, 0.0000)"
       }
+    },
+    "brand": {
+      "10": {
+        "$type": "color",
+        "$value": "rgba(51, 182, 91, 0.1000)"
+      },
+      "20": {
+        "$type": "color",
+        "$value": "rgba(51, 182, 91, 0.2000)"
+      },
+      "30": {
+        "$type": "color",
+        "$value": "rgba(51, 182, 91, 0.3000)"
+      },
+      "40": {
+        "$type": "color",
+        "$value": "rgba(51, 182, 91, 0.4000)"
+      },
+      "50": {
+        "$type": "color",
+        "$value": "rgba(51, 182, 91, 0.5000)"
+      },
+      "60": {
+        "$type": "color",
+        "$value": "rgba(51, 182, 91, 0.6000)"
+      },
+      "70": {
+        "$type": "color",
+        "$value": "rgba(51, 182, 91, 0.7000)"
+      },
+      "80": {
+        "$type": "color",
+        "$value": "rgba(51, 182, 91, 0.8000)"
+      },
+      "90": {
+        "$type": "color",
+        "$value": "rgba(51, 182, 91, 0.9000)"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#33b65b"
+      },
+      "05": {
+        "$type": "color",
+        "$value": "rgba(51, 182, 91, 0.0500)"
+      }
     }
   },
   "gradient": {
@@ -15104,7 +15380,7 @@ _alias.day-mode.tokens.json
       },
       "border-brand-alt": {
         "$type": "color",
-        "$value": "{brand-light.600}"
+        "$value": "{brand-light.500}"
       },
       "border-error": {
         "$type": "color",
@@ -16993,6 +17269,16 @@ _alias.day-mode.tokens.json
         }
       }
     },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
+      }
+    },
     "sidebar": {
       "bg-sidebar": {
         "radial-deg0-stop0": {
@@ -17025,16 +17311,6 @@ _alias.day-mode.tokens.json
       "border-right": {
         "$type": "color",
         "$value": "{gray-light-mode.200}"
-      }
-    },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
       }
     },
     "chart": {
@@ -19160,6 +19436,16 @@ _alias.[archive]night-mode.tokens.json
         }
       }
     },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
+      }
+    },
     "sidebar": {
       "bg-sidebar": {
         "radial-deg0-stop0": {
@@ -19192,16 +19478,6 @@ _alias.[archive]night-mode.tokens.json
       "border-right": {
         "$type": "color",
         "$value": "{gray-dark-mode.700}"
-      }
-    },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
       }
     },
     "chart": {
@@ -21327,6 +21603,16 @@ _alias.night-mode.tokens.json
         }
       }
     },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
+      }
+    },
     "sidebar": {
       "bg-sidebar": {
         "radial-deg0-stop0": {
@@ -21359,16 +21645,6 @@ _alias.night-mode.tokens.json
       "border-right": {
         "$type": "color",
         "$value": "{gray-dark-mode.700}"
-      }
-    },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
       }
     },
     "chart": {
