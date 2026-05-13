@@ -15238,7 +15238,7 @@ _alias.day-mode.tokens.json
     "text": {
       "text-primary": {
         "$type": "color",
-        "$value": "{gray-neutral.900}"
+        "$value": "{gray-neutral.950}"
       },
       "text-primary-on-brand": {
         "$type": "color",
@@ -21733,307 +21733,6 @@ _alias.night-mode.tokens.json
     }
   }
 }
-Typography.Default.tokens.json
-{
-  "Weights": {
-    "Thin": {
-      "$type": "number",
-      "$value": 100
-    },
-    "ExtraLight": {
-      "$type": "number",
-      "$value": 200
-    },
-    "Light": {
-      "$type": "number",
-      "$value": 300
-    },
-    "Regular": {
-      "$type": "number",
-      "$value": 400
-    },
-    "Medium": {
-      "$type": "number",
-      "$value": 500
-    },
-    "SemiBold": {
-      "$type": "number",
-      "$value": 600
-    },
-    "Bold": {
-      "$type": "number",
-      "$value": 700
-    },
-    "ExtraBold": {
-      "$type": "number",
-      "$value": 800
-    },
-    "Black": {
-      "$type": "number",
-      "$value": 900
-    }
-  },
-  "Title": {
-    "Title-1": {
-      "fontSize": {
-        "$type": "number",
-        "$value": 64
-      },
-      "lineHeight": {
-        "$type": "number",
-        "$value": 68
-      },
-      "letterSpacing": {
-        "$type": "number",
-        "$value": -0.699999988079071
-      }
-    },
-    "Title-2": {
-      "fontSize": {
-        "$type": "number",
-        "$value": 40
-      },
-      "lineHeight": {
-        "$type": "number",
-        "$value": 46
-      },
-      "letterSpacing": {
-        "$type": "number",
-        "$value": -0.550000011920929
-      }
-    },
-    "Title-3": {
-      "fontSize": {
-        "$type": "number",
-        "$value": 32
-      },
-      "lineHeight": {
-        "$type": "number",
-        "$value": 36
-      },
-      "letterSpacing": {
-        "$type": "number",
-        "$value": -0.6000000238418579
-      }
-    }
-  },
-  "Heading": {
-    "H1": {
-      "fontSize": {
-        "$type": "number",
-        "$value": 28
-      },
-      "lineHeight": {
-        "$type": "number",
-        "$value": 31
-      },
-      "letterSpacing": {
-        "$type": "number",
-        "$value": -0.5
-      }
-    },
-    "H2": {
-      "fontSize": {
-        "$type": "number",
-        "$value": 26
-      },
-      "lineHeight": {
-        "$type": "number",
-        "$value": 30
-      },
-      "letterSpacing": {
-        "$type": "number",
-        "$value": -0.25999999046325684
-      }
-    },
-    "H3": {
-      "fontSize": {
-        "$type": "number",
-        "$value": 24
-      },
-      "lineHeight": {
-        "$type": "number",
-        "$value": 28
-      },
-      "letterSpacing": {
-        "$type": "number",
-        "$value": -0.23999999463558197
-      }
-    },
-    "H4": {
-      "fontSize": {
-        "$type": "number",
-        "$value": 20
-      },
-      "lineHeight": {
-        "$type": "number",
-        "$value": 24
-      },
-      "letterSpacing": {
-        "$type": "number",
-        "$value": -0.20000000298023224
-      }
-    }
-  },
-  "Label": {
-    "Label-1": {
-      "fontSize": {
-        "$type": "number",
-        "$value": 16
-      },
-      "lineHeight": {
-        "$type": "number",
-        "$value": 20
-      },
-      "letterSpacing": {
-        "$type": "number",
-        "$value": -0.15000000596046448
-      }
-    },
-    "Label-2": {
-      "fontSize": {
-        "$type": "number",
-        "$value": 14
-      },
-      "lineHeight": {
-        "$type": "number",
-        "$value": 18
-      },
-      "letterSpacing": {
-        "$type": "number",
-        "$value": -0.12999999523162842
-      }
-    },
-    "Label-3": {
-      "fontSize": {
-        "$type": "number",
-        "$value": 12
-      },
-      "lineHeight": {
-        "$type": "number",
-        "$value": 16
-      },
-      "letterSpacing": {
-        "$type": "number",
-        "$value": -0.14000000059604645
-      }
-    },
-    "Label-4": {
-      "fontSize": {
-        "$type": "number",
-        "$value": 11
-      },
-      "lineHeight": {
-        "$type": "number",
-        "$value": 14
-      },
-      "letterSpacing": {
-        "$type": "number",
-        "$value": -0.11999999731779099
-      }
-    },
-    "Label-5": {
-      "fontSize": {
-        "$type": "number",
-        "$value": 10
-      },
-      "lineHeight": {
-        "$type": "number",
-        "$value": 14
-      },
-      "letterSpacing": {
-        "$type": "number",
-        "$value": -0.10000000149011612
-      }
-    }
-  },
-  "Body": {
-    "Body-1": {
-      "fontSize": {
-        "$type": "number",
-        "$value": 16
-      },
-      "lineHeight": {
-        "$type": "number",
-        "$value": 24
-      },
-      "letterSpacing": {
-        "$type": "number",
-        "$value": 0
-      }
-    },
-    "Body-2": {
-      "fontSize": {
-        "$type": "number",
-        "$value": 14
-      },
-      "lineHeight": {
-        "$type": "number",
-        "$value": 20
-      },
-      "letterSpacing": {
-        "$type": "number",
-        "$value": 0
-      }
-    },
-    "Body-3": {
-      "fontSize": {
-        "$type": "number",
-        "$value": 12
-      },
-      "lineHeight": {
-        "$type": "number",
-        "$value": 18
-      },
-      "letterSpacing": {
-        "$type": "number",
-        "$value": 0
-      }
-    }
-  },
-  "Tiny": {
-    "fontSize": {
-      "$type": "number",
-      "$value": 10
-    },
-    "lineHeight": {
-      "$type": "number",
-      "$value": 12
-    },
-    "letterSpacing": {
-      "$type": "number",
-      "$value": 0
-    }
-  },
-  "Tiny Extended": {
-    "fontSize": {
-      "$type": "number",
-      "$value": 10
-    },
-    "lineHeight": {
-      "$type": "number",
-      "$value": 12
-    },
-    "letterSpacing": {
-      "$type": "number",
-      "$value": 1
-    }
-  },
-  "Micro": {
-    "fontSize": {
-      "$type": "number",
-      "$value": 9
-    },
-    "lineHeight": {
-      "$type": "number",
-      "$value": 10
-    },
-    "letterSpacing": {
-      "$type": "number",
-      "$value": 0
-    }
-  }
-}
 Typography.Inter.tokens.json
 {
   "Weights": {
@@ -22237,6 +21936,307 @@ Typography.Inter.tokens.json
       "fontSize": {
         "$type": "number",
         "$value": 11
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 14
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.10000000149011612
+      }
+    }
+  },
+  "Body": {
+    "Body-1": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 16
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 24
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": 0
+      }
+    },
+    "Body-2": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 14
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 20
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": 0
+      }
+    },
+    "Body-3": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 12
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 18
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": 0
+      }
+    }
+  },
+  "Tiny": {
+    "fontSize": {
+      "$type": "number",
+      "$value": 10
+    },
+    "lineHeight": {
+      "$type": "number",
+      "$value": 12
+    },
+    "letterSpacing": {
+      "$type": "number",
+      "$value": 0
+    }
+  },
+  "Tiny Extended": {
+    "fontSize": {
+      "$type": "number",
+      "$value": 10
+    },
+    "lineHeight": {
+      "$type": "number",
+      "$value": 12
+    },
+    "letterSpacing": {
+      "$type": "number",
+      "$value": 1
+    }
+  },
+  "Micro": {
+    "fontSize": {
+      "$type": "number",
+      "$value": 9
+    },
+    "lineHeight": {
+      "$type": "number",
+      "$value": 10
+    },
+    "letterSpacing": {
+      "$type": "number",
+      "$value": 0
+    }
+  }
+}
+Typography.Manrope.tokens.json
+{
+  "Weights": {
+    "Thin": {
+      "$type": "number",
+      "$value": 100
+    },
+    "ExtraLight": {
+      "$type": "number",
+      "$value": 200
+    },
+    "Light": {
+      "$type": "number",
+      "$value": 300
+    },
+    "Regular": {
+      "$type": "number",
+      "$value": 400
+    },
+    "Medium": {
+      "$type": "number",
+      "$value": 500
+    },
+    "SemiBold": {
+      "$type": "number",
+      "$value": 600
+    },
+    "Bold": {
+      "$type": "number",
+      "$value": 700
+    },
+    "ExtraBold": {
+      "$type": "number",
+      "$value": 800
+    },
+    "Black": {
+      "$type": "number",
+      "$value": 900
+    }
+  },
+  "Title": {
+    "Title-1": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 64
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 68
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.699999988079071
+      }
+    },
+    "Title-2": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 40
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 46
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.550000011920929
+      }
+    },
+    "Title-3": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 32
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 36
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.6000000238418579
+      }
+    }
+  },
+  "Heading": {
+    "H1": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 28
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 31
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.5
+      }
+    },
+    "H2": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 26
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 30
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.25999999046325684
+      }
+    },
+    "H3": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 24
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 28
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.23999999463558197
+      }
+    },
+    "H4": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 20
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 24
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.20000000298023224
+      }
+    }
+  },
+  "Label": {
+    "Label-1": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 16
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 20
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.15000000596046448
+      }
+    },
+    "Label-2": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 14
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 18
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.12999999523162842
+      }
+    },
+    "Label-3": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 12
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 16
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.14000000059604645
+      }
+    },
+    "Label-4": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 11
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 14
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.11999999731779099
+      }
+    },
+    "Label-5": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 10
       },
       "lineHeight": {
         "$type": "number",
