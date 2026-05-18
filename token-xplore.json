@@ -17269,6 +17269,16 @@ _alias.day-mode.tokens.json
         }
       }
     },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
+      }
+    },
     "sidebar": {
       "bg-sidebar": {
         "radial-deg0-stop0": {
@@ -17301,16 +17311,6 @@ _alias.day-mode.tokens.json
       "border-right": {
         "$type": "color",
         "$value": "{gray-light-mode.200}"
-      }
-    },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
       }
     },
     "chart": {
@@ -19436,6 +19436,16 @@ _alias.[archive]night-mode.tokens.json
         }
       }
     },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
+      }
+    },
     "sidebar": {
       "bg-sidebar": {
         "radial-deg0-stop0": {
@@ -19468,16 +19478,6 @@ _alias.[archive]night-mode.tokens.json
       "border-right": {
         "$type": "color",
         "$value": "{gray-dark-mode.700}"
-      }
-    },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
       }
     },
     "chart": {
@@ -21603,6 +21603,16 @@ _alias.night-mode.tokens.json
         }
       }
     },
+    "heading-fill": {
+      "stop-0": {
+        "$type": "color",
+        "$value": "#f19e18"
+      },
+      "stop-50": {
+        "$type": "color",
+        "$value": "{brand-light.300}"
+      }
+    },
     "sidebar": {
       "bg-sidebar": {
         "radial-deg0-stop0": {
@@ -21635,16 +21645,6 @@ _alias.night-mode.tokens.json
       "border-right": {
         "$type": "color",
         "$value": "{gray-dark-mode.700}"
-      }
-    },
-    "heading-fill": {
-      "stop-0": {
-        "$type": "color",
-        "$value": "#f19e18"
-      },
-      "stop-50": {
-        "$type": "color",
-        "$value": "{brand-light.300}"
       }
     },
     "chart": {
@@ -21879,7 +21879,7 @@ Typography.Inter.tokens.json
     "Label-1": {
       "fontSize": {
         "$type": "number",
-        "$value": 17
+        "$value": 16
       },
       "lineHeight": {
         "$type": "number",
@@ -21893,7 +21893,7 @@ Typography.Inter.tokens.json
     "Label-2": {
       "fontSize": {
         "$type": "number",
-        "$value": 15
+        "$value": 14
       },
       "lineHeight": {
         "$type": "number",
@@ -21907,7 +21907,7 @@ Typography.Inter.tokens.json
     "Label-3": {
       "fontSize": {
         "$type": "number",
-        "$value": 13
+        "$value": 12
       },
       "lineHeight": {
         "$type": "number",
@@ -21921,7 +21921,7 @@ Typography.Inter.tokens.json
     "Label-4": {
       "fontSize": {
         "$type": "number",
-        "$value": 12
+        "$value": 11
       },
       "lineHeight": {
         "$type": "number",
@@ -21935,7 +21935,7 @@ Typography.Inter.tokens.json
     "Label-5": {
       "fontSize": {
         "$type": "number",
-        "$value": 11
+        "$value": 10
       },
       "lineHeight": {
         "$type": "number",
@@ -22481,7 +22481,7 @@ Typography.PJS.tokens.json
     "Label-1": {
       "fontSize": {
         "$type": "number",
-        "$value": 17
+        "$value": 16
       },
       "lineHeight": {
         "$type": "number",
@@ -22495,7 +22495,7 @@ Typography.PJS.tokens.json
     "Label-2": {
       "fontSize": {
         "$type": "number",
-        "$value": 15
+        "$value": 14
       },
       "lineHeight": {
         "$type": "number",
@@ -22509,7 +22509,7 @@ Typography.PJS.tokens.json
     "Label-3": {
       "fontSize": {
         "$type": "number",
-        "$value": 13
+        "$value": 12
       },
       "lineHeight": {
         "$type": "number",
@@ -22523,7 +22523,7 @@ Typography.PJS.tokens.json
     "Label-4": {
       "fontSize": {
         "$type": "number",
-        "$value": 12
+        "$value": 11
       },
       "lineHeight": {
         "$type": "number",
@@ -22537,7 +22537,7 @@ Typography.PJS.tokens.json
     "Label-5": {
       "fontSize": {
         "$type": "number",
-        "$value": 11
+        "$value": 10
       },
       "lineHeight": {
         "$type": "number",
@@ -22782,7 +22782,7 @@ Typography.Montserrat.tokens.json
     "Label-1": {
       "fontSize": {
         "$type": "number",
-        "$value": 17
+        "$value": 16
       },
       "lineHeight": {
         "$type": "number",
@@ -22796,7 +22796,7 @@ Typography.Montserrat.tokens.json
     "Label-2": {
       "fontSize": {
         "$type": "number",
-        "$value": 15
+        "$value": 14
       },
       "lineHeight": {
         "$type": "number",
@@ -22810,7 +22810,7 @@ Typography.Montserrat.tokens.json
     "Label-3": {
       "fontSize": {
         "$type": "number",
-        "$value": 13
+        "$value": 12
       },
       "lineHeight": {
         "$type": "number",
@@ -22824,7 +22824,7 @@ Typography.Montserrat.tokens.json
     "Label-4": {
       "fontSize": {
         "$type": "number",
-        "$value": 12
+        "$value": 11
       },
       "lineHeight": {
         "$type": "number",
@@ -22838,7 +22838,7 @@ Typography.Montserrat.tokens.json
     "Label-5": {
       "fontSize": {
         "$type": "number",
-        "$value": 11
+        "$value": 10
       },
       "lineHeight": {
         "$type": "number",
@@ -23083,7 +23083,7 @@ Typography.Segoe UI.tokens.json
     "Label-1": {
       "fontSize": {
         "$type": "number",
-        "$value": 17
+        "$value": 16
       },
       "lineHeight": {
         "$type": "number",
@@ -23097,7 +23097,7 @@ Typography.Segoe UI.tokens.json
     "Label-2": {
       "fontSize": {
         "$type": "number",
-        "$value": 15
+        "$value": 14
       },
       "lineHeight": {
         "$type": "number",
@@ -23111,7 +23111,7 @@ Typography.Segoe UI.tokens.json
     "Label-3": {
       "fontSize": {
         "$type": "number",
-        "$value": 13
+        "$value": 12
       },
       "lineHeight": {
         "$type": "number",
@@ -23125,7 +23125,7 @@ Typography.Segoe UI.tokens.json
     "Label-4": {
       "fontSize": {
         "$type": "number",
-        "$value": 12
+        "$value": 11
       },
       "lineHeight": {
         "$type": "number",
@@ -23139,7 +23139,7 @@ Typography.Segoe UI.tokens.json
     "Label-5": {
       "fontSize": {
         "$type": "number",
-        "$value": 11
+        "$value": 10
       },
       "lineHeight": {
         "$type": "number",
