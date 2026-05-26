@@ -24744,6 +24744,40 @@ _alias.day-mode.tokens.json
           "$type": "color",
           "$value": "{gradient.retro-green.700}"
         }
+      },
+      "alexandra-blue": {
+        "utility-alexandra-blue-50": {
+          "$type": "color",
+          "$value": "{brand-light.50}"
+        },
+        "utility-alexandra-blue-100": {
+          "$type": "color",
+          "$value": "{brand-light.100}"
+        },
+        "utility-alexandra-blue-200": {
+          "$type": "color",
+          "$value": "{brand-light.200}"
+        },
+        "utility-alexandra-blue-300": {
+          "$type": "color",
+          "$value": "{brand-light.300}"
+        },
+        "utility-alexandra-blue-400": {
+          "$type": "color",
+          "$value": "{brand-light.400}"
+        },
+        "utility-alexandra-blue-500": {
+          "$type": "color",
+          "$value": "{brand-light.500}"
+        },
+        "utility-alexandra-blue-600": {
+          "$type": "color",
+          "$value": "{brand-light.600}"
+        },
+        "utility-alexandra-blue-700": {
+          "$type": "color",
+          "$value": "{brand-light.700}"
+        }
       }
     }
   },
@@ -26911,6 +26945,40 @@ _alias.[archive]night-mode.tokens.json
           "$type": "color",
           "$value": "{gradient.retro-green.300}"
         }
+      },
+      "alexandra-blue": {
+        "utility-alexandra-blue-50": {
+          "$type": "color",
+          "$value": "{brand-light.950}"
+        },
+        "utility-alexandra-blue-100": {
+          "$type": "color",
+          "$value": "{brand-light.900}"
+        },
+        "utility-alexandra-blue-200": {
+          "$type": "color",
+          "$value": "{brand-light.800}"
+        },
+        "utility-alexandra-blue-300": {
+          "$type": "color",
+          "$value": "{brand-light.700}"
+        },
+        "utility-alexandra-blue-400": {
+          "$type": "color",
+          "$value": "{brand-light.600}"
+        },
+        "utility-alexandra-blue-500": {
+          "$type": "color",
+          "$value": "{brand-light.500}"
+        },
+        "utility-alexandra-blue-600": {
+          "$type": "color",
+          "$value": "{brand-light.400}"
+        },
+        "utility-alexandra-blue-700": {
+          "$type": "color",
+          "$value": "{brand-light.300}"
+        }
       }
     }
   },
@@ -29077,6 +29145,40 @@ _alias.night-mode.tokens.json
         "utility-retro-green-700": {
           "$type": "color",
           "$value": "{gradient.retro-green.300}"
+        }
+      },
+      "alexandra-blue": {
+        "utility-alexandra-blue-50": {
+          "$type": "color",
+          "$value": "{brand-light.950}"
+        },
+        "utility-alexandra-blue-100": {
+          "$type": "color",
+          "$value": "{brand-light.900}"
+        },
+        "utility-alexandra-blue-200": {
+          "$type": "color",
+          "$value": "{brand-light.800}"
+        },
+        "utility-alexandra-blue-300": {
+          "$type": "color",
+          "$value": "{brand-light.700}"
+        },
+        "utility-alexandra-blue-400": {
+          "$type": "color",
+          "$value": "{brand-light.600}"
+        },
+        "utility-alexandra-blue-500": {
+          "$type": "color",
+          "$value": "{brand-light.500}"
+        },
+        "utility-alexandra-blue-600": {
+          "$type": "color",
+          "$value": "{brand-light.400}"
+        },
+        "utility-alexandra-blue-700": {
+          "$type": "color",
+          "$value": "{brand-light.300}"
         }
       }
     }
