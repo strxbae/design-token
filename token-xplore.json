@@ -20070,19 +20070,19 @@ _alias.[archive]night-mode.tokens.json
       },
       "text-brand-primary": {
         "$type": "color",
-        "$value": "{gray-dark-mode.500}"
+        "$value": "{brand-light.100}"
       },
       "text-brand-secondary": {
         "$type": "color",
-        "$value": "{gray-dark-mode.300}"
+        "$value": "{brand-light.300}"
       },
       "text-brand-secondary-hover": {
         "$type": "color",
-        "$value": "{gray-dark-mode.400}"
+        "$value": "{brand-light.200}"
       },
       "text-brand-tertiary": {
         "$type": "color",
-        "$value": "{gray-dark-mode.400}"
+        "$value": "{brand-light.400}"
       },
       "text-brand-tertiary-alt": {
         "$type": "color",
