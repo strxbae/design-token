@@ -1677,11 +1677,11 @@ _primitives.Smatoz-Blue-Alexandra.tokens.json
     },
     "900": {
       "$type": "color",
-      "$value": "#141414"
+      "$value": "#222222"
     },
     "950": {
       "$type": "color",
-      "$value": "#0f0f0f"
+      "$value": "#121212"
     }
   },
   "gray-warm": {
@@ -4220,11 +4220,11 @@ _primitives.Smatoz-Blue.tokens.json
     },
     "900": {
       "$type": "color",
-      "$value": "#141414"
+      "$value": "#222222"
     },
     "950": {
       "$type": "color",
-      "$value": "#0f0f0f"
+      "$value": "#121212"
     }
   },
   "gray-warm": {
@@ -6763,11 +6763,11 @@ _primitives.Smatoz-Red.tokens.json
     },
     "900": {
       "$type": "color",
-      "$value": "#141414"
+      "$value": "#222222"
     },
     "950": {
       "$type": "color",
-      "$value": "#0f0f0f"
+      "$value": "#121212"
     }
   },
   "gray-warm": {
@@ -9306,11 +9306,11 @@ _primitives.Smatoz-Yellow.tokens.json
     },
     "900": {
       "$type": "color",
-      "$value": "#141414"
+      "$value": "#222222"
     },
     "950": {
       "$type": "color",
-      "$value": "#0f0f0f"
+      "$value": "#121212"
     }
   },
   "gray-warm": {
@@ -11849,11 +11849,11 @@ _primitives.Smatoz-Green.tokens.json
     },
     "900": {
       "$type": "color",
-      "$value": "#141414"
+      "$value": "#222222"
     },
     "950": {
       "$type": "color",
-      "$value": "#0f0f0f"
+      "$value": "#121212"
     }
   },
   "gray-warm": {
@@ -14392,11 +14392,11 @@ _primitives.HRIS.tokens.json
     },
     "900": {
       "$type": "color",
-      "$value": "#141414"
+      "$value": "#222222"
     },
     "950": {
       "$type": "color",
-      "$value": "#0f0f0f"
+      "$value": "#121212"
     }
   },
   "gray-warm": {
@@ -16935,11 +16935,11 @@ _primitives.uhq-old.tokens.json
     },
     "900": {
       "$type": "color",
-      "$value": "#141414"
+      "$value": "#222222"
     },
     "950": {
       "$type": "color",
-      "$value": "#0f0f0f"
+      "$value": "#121212"
     }
   },
   "gray-warm": {
@@ -20128,7 +20128,7 @@ _alias.[archive]night-mode.tokens.json
       },
       "border-primary-icon": {
         "$type": "color",
-        "$value": "{gray-dark-mode.50}"
+        "$value": "{gray-dark-mode.700}"
       },
       "border-secondary": {
         "$type": "color",
@@ -22333,7 +22333,7 @@ _alias.night-mode.tokens.json
       },
       "border-primary-icon": {
         "$type": "color",
-        "$value": "{gray-dark-mode.50}"
+        "$value": "{gray-dark-mode.700}"
       },
       "border-secondary": {
         "$type": "color",
@@ -24530,7 +24530,7 @@ _alias.darknest.tokens.json
       },
       "border-primary": {
         "$type": "color",
-        "$value": "{gray-dark-mode.500}"
+        "$value": "{gray-true.900}"
       },
       "border-primary-alt": {
         "$type": "color",
@@ -24538,7 +24538,7 @@ _alias.darknest.tokens.json
       },
       "border-primary-icon": {
         "$type": "color",
-        "$value": "{gray-dark-mode.50}"
+        "$value": "{gray-true.700}"
       },
       "border-secondary": {
         "$type": "color",
